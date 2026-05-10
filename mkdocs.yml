@@ -1,0 +1,312 @@
+site_name: NAVER Careers
+site_url: https://benelog.github.io/careers/
+repo_url: https://github.com/benelog/careers
+repo_name: benelog/careers
+docs_dir: docs
+site_description: NAVER Tech Careers — job descriptions for engineering, AI/ML, and product roles.
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search:
+      lang:
+        - en
+        - ko
+
+# === NAV START ===
+nav:
+  - Home: index.md
+  - English:
+    - en/index.md
+    - Positions:
+      - NAVER AI Lab:
+        - en/positions/ai-ml/index.md
+        - Backbone Research: en/positions/ai-ml/backbone-research.md
+        - Generation Research: en/positions/ai-ml/generation-research.md
+        - ML Research: en/positions/ai-ml/ml-research.md
+        - Language Research: en/positions/ai-ml/language-research.md
+        - Human-Computer Interaction Research: en/positions/ai-ml/human-computer-interaction-research.md
+      - Data & Analytics (Naver Search): en/positions/data-science.md
+    - Teams:
+      - NAVER AI Lab: en/teams/naver-ai-lab.md
+      - NAVER Search: en/teams/naver-search.md
+      - NAVER CLOUD AI:
+        - en/teams/clova-cic/index.md
+        - EVENTS:
+          - en/teams/clova-cic/events/index.md
+          - CLOVA @ NeurIPS 2022: en/teams/clova-cic/events/clova-neurips-2022.md
+          - CLOVA AI LAB @ CVPR 2022: en/teams/clova-cic/events/clova-ai-lab-cvpr-2022.md
+          - HyperscaleFAccT @ FAccT 2022: en/teams/clova-cic/events/hyperscalefacct-facct-2022.md
+          - NAVER CLOVA @ ICLR 2022: en/teams/clova-cic/events/naver-clova-iclr-2022.md
+          - "ICLR 2022 Social : ML in Korea": en/teams/clova-cic/events/iclr-2022-social-ml-in-korea.md
+          - CLOVA AI Lab @ AAAI 2022: en/teams/clova-cic/events/clova-ai-lab-aaai-2022.md
+          - "NeurIPS 2021 Social: ML in Korea": en/teams/clova-cic/events/neurips-2021-social-ml-in-korea.md
+          - EMNLP 2021: en/teams/clova-cic/events/emnlp-2021.md
+          - CLOVA AI Lab @ NeurIPS 2021: en/teams/clova-cic/events/clova-ai-lab-neurips-2021.md
+          - NAVER CLOVA & AI Lab @ NAACL 2022: en/teams/clova-cic/events/naver-clova-and-ai-lab-naacl-2022.md
+          - CLOVA & AI Lab @ ICML 2022: en/teams/clova-cic/events/clova-and-ai-lab-icml-2022.md
+    - PUBLICATIONS:
+      - NAVER AI Lab: en/publications/naver-ai-lab.md
+      - NAVER Cloud AI: en/publications/all.md
+      - Core ML & AI: en/publications/core-ml-ai.md
+      - Computer Vision: en/publications/computer-vision.md
+      - NLP & Speech: en/publications/nlp-and-speech.md
+      - Search & RecSys: en/publications/search-and-recsys.md
+      - HCI and More Research Areas: en/publications/other-research-areas.md
+    - PRESENTATIONS:
+      - Search & RecSys: en/presentations/search-and-recsys.md
+  - 한국어:
+    - kr/index.md
+    - 서비스 소개:
+      - 검색, 추천 서비스:
+        - kr/service/search/index.md
+        - NLP:
+          - kr/service/search/nlp/index.md
+          - 텍스트 분석 기술: kr/service/search/nlp/text-analysis.md
+          - 언어 모델: kr/service/search/nlp/language-model.md
+          - Question Answering 기술: kr/service/search/nlp/question-answering.md
+        - Data&Analytics: kr/service/search/data-and-analytics.md
+        - 인텐트 검색: kr/service/search/undefined-1.md
+        - 웹검색: kr/service/search/websearch.md
+        - Vision: kr/service/search/vision.md
+        - 지식스니펫: kr/service/search/undefined-2.md
+        - 쇼핑검색&추천:
+          - kr/service/search/undefined-3/index.md
+          - Product Search & Ranking: kr/service/search/undefined-3/product-search-and-ranking.md
+          - Product Recommendation (AiTEMS): kr/service/search/undefined-3/product-recommendation-aitems.md
+          - Catalog Matching & Enrichment: kr/service/search/undefined-3/catalog-matching-and-enrichment.md
+        - AiRSearch:
+          - kr/service/search/recommendation-airs/index.md
+          - 글로벌 추천 모델링(AI/ML): kr/service/search/recommendation-airs/al-ml.md
+          - 통합 개인화 플랫폼(BE/DE): kr/service/search/recommendation-airs/be-de.md
+          - 통합 검색 모델링(AI/ML): kr/service/search/recommendation-airs/al-ml-1.md
+        - AI Data Platform: kr/service/search/ai-and-data-platform.md
+        - 지식베이스: kr/service/search/knowledge-base.md
+        - 클라우드검색솔루션 프로젝트: kr/service/search/cloud-search-solution-project.md
+        - Server Platform: kr/service/search/server-platform.md
+        - Engine & Solution:
+          - kr/service/search/engine-and-solution/index.md
+          - 대용량 분산 검색 엔진 개발:
+            - kr/service/search/engine-and-solution/search-engine/index.md
+            - 고효율 고성능 색인-검색 컴포넌트 개발: kr/service/search/engine-and-solution/search-engine/perf.md
+            - 검색 엔진 분산 아키텍쳐 개발: kr/service/search/engine-and-solution/search-engine/net.md
+            - 대규모 검색 클러스터 운영 도구 개발: kr/service/search/engine-and-solution/search-engine/admin-tool.md
+          - 고성능 서버리스 플랫폼 개발: kr/service/search/engine-and-solution/serverless.md
+        - 지역검색&추천:
+          - kr/service/search/local/index.md
+          - Local Search: kr/service/search/local/local-search.md
+          - AirSPACE: kr/service/search/local/airspace.md
+        - 신뢰성 플랫폼:
+          - kr/service/search/reliability-platform/index.md
+          - Search FE: kr/service/search/reliability-platform/search-fe.md
+          - Search Portal: kr/service/search/reliability-platform/search-portal.md
+          - Search SRE: kr/service/search/reliability-platform/search-sre.md
+      - 공통 플랫폼 기술 개발:
+        - kr/service/platform-labs/index.md
+        - Next 페이 프로젝트 서버 개발: kr/service/platform-labs/next-npay.md
+      - 광고 플랫폼, 여행 검색 외:
+        - kr/service/biz-cic/index.md
+        - Front-end: kr/service/biz-cic/front-end.md
+        - Back-end: kr/service/biz-cic/back-end.md
+        - AI/ML: kr/service/biz-cic/ai-ml.md
+        - Data: kr/service/biz-cic/data.md
+        - Android: kr/service/biz-cic/android.md
+        - iOS: kr/service/biz-cic/ios.md
+      - 네이버 쇼핑:
+        - kr/service/shopping/index.md
+        - 스마트스토어: kr/service/shopping/smartstore.md
+        - 버티컬쇼핑서비스: kr/service/shopping/vertical-shopping-service.md
+        - 쇼핑검색서비스: kr/service/shopping/shopping-aggregation-platform.md
+        - 라이브커머스: kr/service/shopping/livecommerce.md
+      - 뉴스, 연예, 스포츠 외:
+        - kr/service/media/index.md
+        - Back-end: kr/service/media/back-end.md
+        - ML/Data engineering: kr/service/media/ml-data-engineering.md
+      - 블로그, 지식iN/eXpert 외:
+        - kr/service/apollo/index.md
+        - iOS: kr/service/apollo/ios.md
+        - Android: kr/service/apollo/android.md
+        - Front-end: kr/service/apollo/frontend.md
+        - Back-end: kr/service/apollo/backend.md
+        - Data: kr/service/apollo/data-tech.md
+      - 회원&인증플랫폼:
+        - kr/service/and/index.md
+        - iOS: kr/service/and/ios.md
+        - Android: kr/service/and/android.md
+        - Back-end: kr/service/and/back-end.md
+        - Front-end: kr/service/and/front-end.md
+        - Data: kr/service/and/data.md
+      - 🧑‍🚀 Community CIC:
+        - kr/service/band/index.md
+        - Global Community Dev FrontEnd: kr/service/band/global-community-dev-frontend.md
+        - Global Community Dev BackEnd: kr/service/band/global-community-dev-backend.md
+        - Open Community Dev FrontEnd: kr/service/band/open-community-dev-frontend.md
+        - Open Community Dev BackEnd: kr/service/band/back-end.md
+        - Android: kr/service/band/android.md
+        - iOS: kr/service/band/ios.md
+        - Business Data: kr/service/band/ml-data-engineering.md
+        - Service Data: kr/service/band/service-data.md
+        - Core Backend: kr/service/band/core-backend.md
+        - Naver Game Server Dev: kr/service/band/naver-game-server-dev.md
+        - Naver Game Client Dev: kr/service/band/naver-game-client-dev.md
+      - 밴드 Cell:
+        - kr/service/cell/index.md
+        - 밴드 Cell Web: kr/service/cell/cell-web.md
+      - NAVER CLOUD AI:
+        - kr/service/clova/index.md
+        - NAVER AI LAB: kr/service/clova/naver-ai-lab.md
+        - 음성인식 (Speech Recognition): kr/service/clova/speech-recognition.md
+        - 음성합성 및 Avatar 생성 기술 연구: kr/service/clova/ai-ml.md
+        - 클로바 Vision/NLP 연구 개발: kr/service/clova/vision-nlp.md
+        - CLOVA Vision Kit:
+          - kr/service/clova/clova-vision-kit/index.md
+          - Face AI: kr/service/clova/clova-vision-kit/face-ai.md
+          - Video AI: kr/service/clova/clova-vision-kit/video-ai.md
+          - Avatar AI: kr/service/clova/clova-vision-kit/avatar-ai.md
+          - Edge AI: kr/service/clova/clova-vision-kit/edge-ai.md
+          - Edge Solution AI: kr/service/clova/clova-vision-kit/edge-solution-ai.md
+          - Data Engineer: kr/service/clova/clova-vision-kit/data-engineer.md
+        - 초대규모 멀티모달 & 시계열 & 쇼핑 모델링 기술 연구개발: kr/service/clova/and-and.md
+        - CLOVA 언어 모델 연구 및 대화 시스템 개발: kr/service/clova/conversation.md
+        - HCI X AI: kr/service/clova/hci-x-ai.md
+        - AI 경량화 및 최적화: kr/service/clova/ai.md
+        - ML 연구 플랫폼 NSML 개발: kr/service/clova/nsml.md
+        - AI/ML 서비스 & 플랫폼 개발: kr/service/clova/ai-ml-and.md
+        - AutoML을 이용한 모델 자동 훈련 시스템 개발: kr/service/clova/automl.md
+        - HyperCLOVA Engineering: kr/service/clova/hyperclova.md
+        - Document Intelligence: kr/service/clova/document-intelligence.md
+        - 머신러닝을 위한 대규모 데이터 플랫폼 구축: kr/service/clova/data-platform.md
+        - 초대규모 AI 모델 학습 / 서빙 시스템 구축 및 운영: kr/service/clova/mlops.md
+        - DATA AI: kr/service/clova/data-ai.md
+        - AI Assistant 대화/검색시스템 연구 개발: kr/service/clova/ai-assistant.md
+        - CLOVA Note:
+          - kr/service/clova/clova-note/index.md
+          - CLOVA Note App (iOS): kr/service/clova/clova-note/clova-note-app-ios.md
+      - ETECH:
+        - kr/service/etech/index.md
+        - Front-end: kr/service/etech/front-end.md
+        - Back-end: kr/service/etech/back-end.md
+        - Android: kr/service/etech/android.md
+        - iOS: kr/service/etech/ios.md
+        - Data: kr/service/etech/data.md
+        - Graphics: kr/service/etech/graphics.md
+      - Maps:
+        - kr/service/maps/index.md
+        - iOS: kr/service/maps/ios.md
+        - Android: kr/service/maps/android.md
+        - Back-End: kr/service/maps/back-end.md
+      - Music:
+        - kr/service/music/index.md
+        - Music iOS: kr/service/music/music-ios.md
+        - Music Android: kr/service/music/music-android.md
+        - Music Server: kr/service/music/music-server.md
+        - Music Platform:
+          - kr/service/music/music-platform/index.md
+          - META STORE: kr/service/music/music-platform/meta-store.md
+          - OPEN-API: kr/service/music/music-platform/open-api.md
+          - PARTY ROOM: kr/service/music/music-platform/party-room.md
+          - NAVER SEARCH: kr/service/music/music-platform/naver-search.md
+          - DATA: kr/service/music/music-platform/data.md
+        - Music AI: kr/service/music/music-ai.md
+        - Music Quality Engineering: kr/service/music/music-quality-engineering.md
+        - LINE MUSIC iOS: kr/service/music/line-music-ios.md
+        - LINE MUSIC Android: kr/service/music/line-music-android.md
+        - LINE MUSIC Server: kr/service/music/line-music-server.md
+      - Papago:
+        - kr/service/papago/index.md
+        - Front-end: kr/service/papago/front-end.md
+        - Back-end: kr/service/papago/back-end.md
+        - AI/ML: kr/service/papago/ai-ml.md
+        - Android: kr/service/papago/android.md
+        - iOS: kr/service/papago/ios.md
+      - PLACE:
+        - kr/service/glace-cic/index.md
+        - iOS: kr/service/glace-cic/ios.md
+      - Weverse:
+        - kr/service/weverse/index.md
+        - Front-end: kr/service/weverse/front-end.md
+        - Back-end: kr/service/weverse/back-end.md
+        - Android: kr/service/weverse/android.md
+        - iOS: kr/service/weverse/ios.md
+      - Whale:
+        - kr/service/whale/index.md
+        - Browser: kr/service/whale/browser.md
+        - Web Engine: kr/service/whale/web-engine.md
+        - Whale OS: kr/service/whale/whale-os.md
+        - Front-end: kr/service/whale/front-end-web-ui.md
+        - Back-end: kr/service/whale/back-end.md
+        - Whale Android: kr/service/whale/android.md
+        - Whale iOS: kr/service/whale/ios.md
+      - Security:
+        - kr/service/security/index.md
+        - Service Security: kr/service/security/service-security.md
+        - Security Development: kr/service/security/security-development.md
+      - 네이버앱플랫폼Tech:
+        - kr/service/tech/index.md
+        - Naver App:
+          - kr/service/tech/naver-app/index.md
+          - Android: kr/service/tech/naver-app/android.md
+          - iOS: kr/service/tech/naver-app/ios.md
+        - PWE앱:
+          - kr/service/tech/pwe/index.md
+          - Android: kr/service/tech/pwe/android.md
+          - iOS: kr/service/tech/pwe/ios.md
+        - 스마트보드앱: kr/service/tech/undefined.md
+      - WORKS MOBILE:
+        - kr/service/works-mobile/index.md
+        - iOS: kr/service/works-mobile/ios.md
+        - Android: kr/service/works-mobile/android.md
+      - SmartStudio:
+        - kr/smartstudio/index.md
+        - Front-end: kr/smartstudio/front-end.md
+        - Back-end: kr/smartstudio/back-end.md
+        - Android: kr/smartstudio/android.md
+        - iOS: kr/smartstudio/ios.md
+      - NAVER CLOUD:
+        - kr/naver-cloud/index.md
+        - WASL: kr/naver-cloud/wasl.md
+    - 기술별 직무:
+      - Front-end: kr/tech/front-end.md
+      - Back-end: kr/tech/back-end.md
+      - AI/ML: kr/tech/ai-ml.md
+      - Android: kr/tech/android.md
+      - iOS: kr/tech/ios.md
+      - Data: kr/tech/data.md
+      - Graphics: kr/tech/graphics-1.md
+# === NAV END ===
