@@ -48,10 +48,14 @@ plugins:
       lang:
         - en
         - ko
+  - redirects:
+      redirect_maps:
+        # Root → KR landing, matching the original GitBook behavior
+        # (https://naver-career.gitbook.io/ → /kr/).
+        'index.md': 'kr/index.md'
 
 # === NAV START ===
 nav:
-  - Home: index.md
   - English:
     - en/index.md
     - Positions:
