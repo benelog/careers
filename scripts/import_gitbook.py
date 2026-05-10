@@ -309,22 +309,96 @@ def main(argv: list[str]) -> int:
         if not (root / "SUMMARY.md").exists():
             raise SystemExit(f"{label} source {root} has no SUMMARY.md")
 
-    print(f"[1/4] Copying markdown: {args.kr_source} → docs/kr/")
+    print(f"[1/5] Copying markdown: {args.kr_source} → docs/kr/")
     copy_markdown_tree(args.kr_source, DOCS / "kr", "kr")
-    print(f"[2/4] Copying markdown: {args.en_source} → docs/en/")
+    print(f"[2/5] Copying markdown: {args.en_source} → docs/en/")
     copy_markdown_tree(args.en_source, DOCS / "en", "en")
 
-    print(f"[3/4] Copying assets")
+    print(f"[3/5] Copying assets")
     copy_assets(args.kr_source, DOCS / "assets" / "kr")
     copy_assets(args.en_source, DOCS / "assets" / "en")
 
-    print(f"[4/4] Generating nav from SUMMARY.md files")
+    print(f"[4/5] Generating nav from SUMMARY.md files")
     kr_nav = parse_summary(args.kr_source / "SUMMARY.md", "kr")
     en_nav = parse_summary(args.en_source / "SUMMARY.md", "en")
     splice_nav(render_nav(kr_nav, en_nav))
 
+    print(f"[5/5] Promoting KR landing to docs/index.md")
+    promote_kr_root()
+
     print("Done. Run `mkdocs build --strict` to verify.")
     return 0
+
+
+# === Root landing ===
+
+KR_TOPLEVEL_DIRS = (
+    "service",
+    "naver-cloud",
+    "smartstudio",
+    "tech",
+    "business",
+    "undefined",
+)
+
+
+def promote_kr_root() -> None:
+    """
+    Mirror docs/kr/index.md to docs/index.md so the site root reproduces
+    the original GitBook landing (https://naver-career.gitbook.io/).
+
+    Internal links are rewritten so the actual content (which lives under
+    /kr/) still resolves from the root page.
+    """
+    src = DOCS / "kr" / "index.md"
+    if not src.exists():
+        return
+    text = src.read_text(encoding="utf-8")
+
+    # Rename the auto-generated "Readme" H1 to a human title.
+    # Use [ \t]* (not \s*) so we don't eat the blank line that follows.
+    text = re.sub(r"(?m)^#[ \t]+Readme[ \t]*$", "# NAVER Careers", text, count=1)
+
+    # Hide the right-side TOC — the landing page sections are short and
+    # the table-of-contents adds noise.
+    if text.startswith("---\n"):
+        end = text.find("\n---\n", 4)
+        if end != -1:
+            front = text[:end].rstrip()
+            rest = text[end + 1:]  # drop the leading newline; we'll add it back
+            if "hide:" not in front:
+                front = front + "\nhide:\n  - toc"
+                text = front + "\n" + rest
+
+    # Rewrite KR-relative links so they resolve from the root.
+    for top in KR_TOPLEVEL_DIRS:
+        # href="service/..."  →  href="kr/service/..."
+        text = re.sub(
+            rf'(href=")(?!https?:|/|#|kr/|en/)({top}/)',
+            r'\1kr/\2',
+            text,
+        )
+        # ](service/...)  →  ](kr/service/...)
+        text = re.sub(
+            rf'(\]\()(?!https?:|/|#|kr/|en/)({top}/)',
+            r'\1kr/\2',
+            text,
+        )
+
+    # Original GitBook cross-references → local paths
+    text = text.replace("https://naver-career.gitbook.io/en/", "en/")
+    text = text.replace("https://naver-career.gitbook.io/en", "en/")
+    text = re.sub(
+        r"https?://naver-career\.gitbook\.io/kr/?",
+        "kr/",
+        text,
+    )
+
+    # GitBook escapes `&` as `\&` in source markdown — MkDocs renders the
+    # backslash literally, so drop it.
+    text = text.replace("\\&", "&")
+
+    (DOCS / "index.md").write_text(text, encoding="utf-8")
 
 
 if __name__ == "__main__":
