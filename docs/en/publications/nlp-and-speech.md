@@ -126,7 +126,7 @@ Jihwan Bang, Heesu Kim, YoungJoon Yoo, Jung-Woo Ha. Efficient Active Learning fo
 
 Sungdong Kim, Sohee Yang, Gyuwan Kim, Sang-Woo Lee. Efficient Dialogue State Tracking by Selectively Overwriting Memory. ACL 2020.&#x20;
 
-Jinhyuk Lee, Minjoon Seo, Hanna Hajishirzi (Univ. of Washington), Jaewoo Kang (Korea Univ.). Contextualized Sparse Representations for\
+Jinhyuk Lee, Minjoon Seo, Hanna Hajishirzi (Univ. of Washington), Jaewoo Kang (Korea Univ.). Contextualized Sparse Representations for<br>
 Real-Time Open-Domain Question Answering. ACL 2020.&#x20;
 
 Minz Won (Univ. of Pompeu Fabra), Sanghyuk Chun, Oriol Nieto (Pandora), Xavier Serra (Univ. of Pompeu Fabra). Data-Driven Harmonic Filters for Audio Representation Learning. ICASSP 2020.&#x20;
@@ -155,7 +155,7 @@ Seonhoon Kim, Inho Kang, Nojun Kwak. Semantic Sentence Matching with Densely-con
 
 Fuxiang Chen, Jaegul Choo, Jung-Woo Ha, Sunghun Kim, Jinyeong Yim. Paraphrase Diversification using Counterfactual Debiasing. AAAI 2019.
 
-Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Minjoon Seo. A\
+Wonseok Hwang, Jinyeong Yim, Seunghyun Park, Minjoon Seo. A<br>
 Comprehensive Exploration on WikiSQL with Table-Aware Word Contextualization. arXiv. 2019
 
 Fuxiang Chen, Seung-won Hwang (Yonsei Univ.), Jaegul Choo (Korea Univ.), Jung-Woo Ha, Sung Kim. NL2pSQL: Generating Pseudo-SQL Queries from Under-Specified Natural Language Questions. EMNLP-IJCNLP 2019. 2019
@@ -164,31 +164,31 @@ Jaemin Cho, Minjoon Seo, Hannaneh Hajishirzi (Univ. of Washington). Mixture Cont
 
 Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So, Jaewoo Kang. BioBERT: a pre-trained biomedical language representation model for biomedical text mining. Bioinformatics. 2019
 
-Eunwoo Song, Kyungguen Byun, Hong-Goo Kang. ExcitNet\
+Eunwoo Song, Kyungguen Byun, Hong-Goo Kang. ExcitNet<br>
 Vocoder: A Neural Excitation Model for Parametric Speech Synthesis Systems. EUSIPCO 2019. 2019
 
-Ohsung Kwon, Eunwoo Song, Jae-Min Kim,Hong-Goo Kang. Effective\
+Ohsung Kwon, Eunwoo Song, Jae-Min Kim,Hong-Goo Kang. Effective<br>
 Parameter Estimation Methods for an ExcitNet Model in Generative Text-to-Speech Systems. arXiv. 2019
 
-Kyungguen Byun, Eunwoo Song, Jinseob Kim, Jae-Min Kim, Hong-Goo Kang. Excitation-by-SampleRNN\
+Kyungguen Byun, Eunwoo Song, Jinseob Kim, Jae-Min Kim, Hong-Goo Kang. Excitation-by-SampleRNN<br>
 Model for Text-to-Speech. ITC-CSCC 2019. 2019
 
 Ryuichi Yamamoto, Eunwoo Song, Jae-Min Kim. Probability Density Distillation with Generative Adversarial Networks for High-Quality Parallel Waveform Generation. INTERSPEECH 2019. 2019
 
-Min-Jae Hwang, Hong-Goo Kang. Parameter\
+Min-Jae Hwang, Hong-Goo Kang. Parameter<br>
 Enhancement for MELP Speech Codec in Noisy Communication Environment. INTERSPEECH 2019. 2019
 
 Joon Son Chung, Bong-Jin Lee, Icksang Han. Who Said that: Audio-Visual Speaker Diarisation of Real-World Meetings. INTERSPEECH 2019. 2019
 
 Triantafyllos Afouras, Joon Son Chung, Andrew Zisserman. My Lips are Concealed: Audio-Visual Speech Enhancement through Obstructions. INTERSPEECH 2019. 2019
 
-Minjoon Seo, Jinhyuk Lee, Tom Kwiatkowski, Ankur P. Parikh, Ali Farhadi, Hannaneh Hajishirzi. Real-Time\
+Minjoon Seo, Jinhyuk Lee, Tom Kwiatkowski, Ankur P. Parikh, Ali Farhadi, Hannaneh Hajishirzi. Real-Time<br>
 Open-Domain Question Answering with Dense-Sparse Phrase Index. ACL 2019. 2019
 
-Sung Kyu Moon, Suwon Shon. Domain\
+Sung Kyu Moon, Suwon Shon. Domain<br>
 Mismatch Robust Acoustic Scene Classification Using Channel Information Conversion. ICASSP 2019.&#x20;
 
-Soo-Whan Chung, Joon Son Chung, Hong-Goo Kang. Perfect\
+Soo-Whan Chung, Joon Son Chung, Hong-Goo Kang. Perfect<br>
 Match: Improved Cross-Modal Embeddings for Audio-Visual Synchronisation. ICASSP 2019. 2019
 
 Ohsung Kwon, Inseon Jang (ETRI), ChungHyun Ahn (ETRI), Hong-Goo Kang (Yonsei Univ.). An Effective Style Token Weight Control Technique for End-to-End Emotional Speech Synthesis. IEEE Signal Processing Letters (presented @ ICASSP 2020). 2019
@@ -197,18 +197,18 @@ Ohsung Kwon, Inseon Jang (ETRI), ChungHyun Ahn (ETRI), Hong-Goo Kang (Yonsei Uni
 
 **\~ 2018**
 
-Jang-Hyun Kim, Jaejun Yoo, Sanghyuk Chun, Adrian Kim, Jung-Woo Ha. Multi-Domain\
+Jang-Hyun Kim, Jaejun Yoo, Sanghyuk Chun, Adrian Kim, Jung-Woo Ha. Multi-Domain<br>
 Processing via Hybrid Denoising Networks for Speech Enhancement. arXiv. 2018
 
-Eunwoo Song, Jinseob Kim, Kyungguen Byun, Hong-Goo Kang. Speaker-Adaptive\
+Eunwoo Song, Jinseob Kim, Kyungguen Byun, Hong-Goo Kang. Speaker-Adaptive<br>
 Neural Vocoders for Statistical Parametric Speech Synthesis Systems. arXiv. 2018
 
-Minjoon Seo, Tom Kwiatkowski, Ankur P. Parikh, Ali Farhadi, Hannaneh Hajishirzi. Phrase-Indexed\
+Minjoon Seo, Tom Kwiatkowski, Ankur P. Parikh, Ali Farhadi, Hannaneh Hajishirzi. Phrase-Indexed<br>
 Question Answering: A New Challenge towards Scalable Document Comprehension. EMNLP 2018. 2018
 
 Min-Jae Hwang, Eunwoo Song, Jin-Seob Kim, Hong-Goo Kang. A Unified Framework for the Generation of Glottal Signals in Deep Learning-Based Parametric Speech Synthesis Systems. Interspeech 2018. 2018
 
-Joun Yeop Lee, Sung Jun Cheon, Byoung Jin Choi, Nam Soo Kim, Eunwoo Song. Acoustic Modeling Using Adversarially Trained Variational Recurrent Neural Network for\
+Joun Yeop Lee, Sung Jun Cheon, Byoung Jin Choi, Nam Soo Kim, Eunwoo Song. Acoustic Modeling Using Adversarially Trained Variational Recurrent Neural Network for<br>
 Speech Synthesis. Interspeech 2018. 2018
 
 Triantafyllos Afouras, Joon Son Chung, Andrew Zisserman. Deep Lip Reading: a Comparison of Models and an Online Application. Interspeech 2018. 2018

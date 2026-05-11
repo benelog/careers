@@ -84,45 +84,45 @@ Pilhyeon Lee (Yonsei Univ.), Youngjung Uh, Heyran Byun (Yonsei Univ.). Backgroun
 
 Seunghyun Park, Seung Shin, Bado Lee, Junyeop Lee, Jaeheung Surh, Minjoon Seo, Hwalsuk Lee. CORD: A Consolidated Receipt Dataset for Post-OCR Parsing. Document Intelligence WS@NeurIPS 2019. 2019
 
-YoungJoon Yoo, Dongyoon Han, Sangdoo Yun. EXTD:\
+YoungJoon Yoo, Dongyoon Han, Sangdoo Yun. EXTD:<br>
 Extremely Tiny Face Detector via Iterative Filter Reuse. arXiv. 2019
 
-Minz Won, Sanghyuk Chun, Xavier Serra. Visualizing\
+Minz Won, Sanghyuk Chun, Xavier Serra. Visualizing<br>
 and Understanding Self-Attention Based Music Tagging. Machine Learning for Music Discovery Workshop (Contributed Talk)@ICML 2019. 2019
 
-Sanghyuk Chun, Seong Joon Oh, Sangdoo Yun, Dongyoon Han, Junsuk Choe, Youngjoon Yoo. An\
-Empirical Evaluation on Robustness and Uncertainty of Regularization methods\
+Sanghyuk Chun, Seong Joon Oh, Sangdoo Yun, Dongyoon Han, Junsuk Choe, Youngjoon Yoo. An<br>
+Empirical Evaluation on Robustness and Uncertainty of Regularization methods<br>
 Robustness and Uncertainty. Uncertainty & Robustness in Deep Learning Workshop@ICML 2019. 2019
 
 Youngjin Kim, Wontae Nam, Hyunwoo Kim, Ji-Hoon Kim, Gunhee Kim. Curiosity-Bottleneck: Exploration By Distilling Task-Specific Novelty. ICML 2019. 2019
 
-Xiaodong Gu, Kyunghyun Cho, Jung-Woo Ha, Sunghun Kim. DialogWAE:\
+Xiaodong Gu, Kyunghyun Cho, Jung-Woo Ha, Sunghun Kim. DialogWAE:<br>
 Multimodal Response Generation with Conditional Wasserstein Auto-Encoder. ICLR 2019. 2019
 
-Sang-Woo Lee, Tong Gao, Sohee Yang, Jaejun Yoo, Jung-Woo Ha. Large-Scale\
+Sang-Woo Lee, Tong Gao, Sohee Yang, Jaejun Yoo, Jung-Woo Ha. Large-Scale<br>
 Answerer in Questioner's Mind for Visual Dialog Question Generation. ICLR 2019. 2019
 
-Seong Joon Oh, Andrew C. Gallagher, Kevin P. Murphy, Florian Schroff, Jiyan Pan, Joseph Roth. Modeling\
+Seong Joon Oh, Andrew C. Gallagher, Kevin P. Murphy, Florian Schroff, Jiyan Pan, Joseph Roth. Modeling<br>
 Uncertainty with Hedged Instance Embeddings. ICLR 2019. 2019
 
-Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim, Dongyoon Han. Where To\
-Be Adversarial Perturbations Added? Investigating and Manipulating Pixel\
+Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim, Dongyoon Han. Where To<br>
+Be Adversarial Perturbations Added? Investigating and Manipulating Pixel<br>
 Robustness Using Input Gradients. Debugging Machine Learning Models Workshop@ICLR 2019. 2019
 
-Sungrae Park, Jun-Keon Park, Su-Jin Shin, Il-Chul Moon. Adversarial\
+Sungrae Park, Jun-Keon Park, Su-Jin Shin, Il-Chul Moon. Adversarial<br>
 Dropout for Recurrent Neural Networks. AAAI 2019. 2019
 
 Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi. Knowledge Distillation with Adversarial Samples Supporting Decision Boundary. AAAI 2019. 2019
 
 Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi. Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons. AAAI 2019, Oral. 2019
 
-Sunghyun Park, Seung-Won Hwang, Fuxiang Chen, Jaegul Choo, Jung-Woo Ha, Sunghun Kim. Paraphrase\
+Sunghyun Park, Seung-Won Hwang, Fuxiang Chen, Jaegul Choo, Jung-Woo Ha, Sunghun Kim. Paraphrase<br>
 Diversification Using Counterfactual Debiasing. AAAI 2019. 2019
 
-Jamin Shin, Andrea Madotto, Minjoon Seo, Pascale Fung. End-to-End\
+Jamin Shin, Andrea Madotto, Minjoon Seo, Pascale Fung. End-to-End<br>
 Question Answering Models for Goal-Oriented Dialog Learning. Workshop on DSTC 2019 (at AAAI). 2019
 
-Weonyoung Joo, Wonsung Lee, Sungrae Park, Il-Chul Moon. Dirichlet\
+Weonyoung Joo, Wonsung Lee, Sungrae Park, Il-Chul Moon. Dirichlet<br>
 Variational Autoencoder. arXiv. 2019
 
 
@@ -143,7 +143,7 @@ You Jin Kim, Yun-Geun Lee, Jeong Whun Kim, Jin Joo Park, Borim Ryu, Jung-Woo Ha.
 
 Sang-Woo Lee, Jin-Hwa Kim, Jaehyun Jun, Jung-Woo Ha, Byoung-Tak Zhang. Overcoming Catastrophic Forgetting by Incremental Moment Matching. NIPS 2017. 2017
 
-Jungyeul Park, Loic Dugast, Jeen-Pyo Hong, Chang-Uk Shin, Jeong-Won Cha. Building a Better Bitext for Structurally Different Languages through Self-Training. Workshop on Curation and Applications of\
+Jungyeul Park, Loic Dugast, Jeen-Pyo Hong, Chang-Uk Shin, Jeong-Won Cha. Building a Better Bitext for Structurally Different Languages through Self-Training. Workshop on Curation and Applications of<br>
 Parallel and Comparable Corpora in IJCNLP 2017. 2017
 
 Jin-Hwa Kim, Kyoung-Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang. Hadamard product for low-rank bilinear pooling. ICLR 2017. 2017

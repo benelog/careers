@@ -112,7 +112,7 @@ We look forward to your application and the possibility of you joining our team.
 
 * [**MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty,**](https://app.gitbook.com/o/YwTtNM7lZ3MCy42q2Sir/s/jKI7lERzJBhoQChj5py1/) Yongjin Yang, Haneul Yoo, Hwaran Lee, **Arxiv**, _2024_ <mark style="color:red;">`dataset & benchmark`</mark><mark style="color:green;">`uncertainty`</mark>
 * [**CSRT: Evaluation and Analysis of LLMs using Code-Switching Red-Teaming Dataset**](https://arxiv.org/abs/2406.15481)**,** Haneul Yoo, Yongjin Yang, Hwaran Lee, **Arxiv**, _2024_ <mark style="color:red;">`dataset & benchmark`</mark>` `<mark style="color:green;">`llm-security`</mark>
-* [**AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence**](https://arxiv.org/abs/2404.11826)\
+* [**AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence**](https://arxiv.org/abs/2404.11826)<br>
   **,** Minbeom Kim, Hwanhee Lee, Joonsuk Park, Hwaran Lee, Kyomin Jung, **Arxiv**, _2024_ <mark style="color:purple;">`alignment`</mark>` `<mark style="color:red;">`dataset & benchmark`</mark>
 * [**Who Wrote this Code? Watermarking for Code Generation**](https://arxiv.org/abs/2305.15060)**,** Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim, **ACL**, _2024_ <mark style="color:green;">`llm-security`</mark>
 * [**Calibrating Large Language Models Using Their Generations Only**](https://arxiv.org/abs/2403.05973)**,** Dennis Thomas Ulmer, Martin Gubri, Hwaran Lee, Sangdoo Yun, Seong Joon Oh, **ACL**, _2024_ <mark style="color:green;">`uncertainty`</mark>

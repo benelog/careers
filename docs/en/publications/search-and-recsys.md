@@ -30,7 +30,7 @@ Jae-woong Lee, Young-In Song, Deokmin Haam, Sanghoon Lee, Woo-sik Choi, and Jong
 
 Jingun Kwon, Hidetaka Kamigaito, Young-In Song, and Manabu Okumura, Hierarchical Trivia Fact Extraction from Wikipedia Articles, COLING 2020&#x20;
 
-J. J. Whang, Y. Jung, S. Kang, D. Yoo, and I. S. Dhillon, , Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection, Companion Proceedings of the Web Conference (WWW)\
+J. J. Whang, Y. Jung, S. Kang, D. Yoo, and I. S. Dhillon, , Scalable Anti-TrustRank with Qualified Site-level Seeds for Link-based Web Spam Detection, Companion Proceedings of the Web Conference (WWW)<br>
 Workshop on CyberSafety: Computational Methods in Online Misbehavior, 2020.
 
 Jisu Jeong, Jeong-Min Yun, Hongi Keam, Young-Jin Park, Zimin Park, Junki Cho. div2vec: Diversity-Emphasized Node Embedding. Workshop on the Impact of Recommender Systems, RecSys 2020. 2020
@@ -49,7 +49,7 @@ Minz Won, Sanghyuk Chun, Xavier Serra. Automatic music tagging with Harmonic CNN
 
 Gyuwan Kim. Subword Language Model for Query Auto-Completion. EMNLP-IJCNLP 2019. 2019
 
-Kyungwoo Song, Mingi Ji, Sungrae Park, Il-Chul Moon. Hierarchical\
+Kyungwoo Song, Mingi Ji, Sungrae Park, Il-Chul Moon. Hierarchical<br>
 Context Enabled Recurrent Neural Network for Recommendation. AAAI 2019. 2019
 
 ### \~2018
@@ -60,7 +60,7 @@ Kyoung-Rok Jang, Sung-Hyon Myaeng, and Sang-Bum Kim: Interpretable Word Embeddin
 
 Taewon Yoon, Sung-Hyon Myaeng, Hyun-Wook Woo, Seung-Wook Lee, and Sang-Bum Kim: On Temporally Sensitive Word Embeddings for News Information Retrieval, proceedings of the Second International Workshop on Recent Trends in News Information Retrieval, ECIR2018
 
-Jiyoung Park, Jongpil Lee, Jangyeon Park, Jung-Woo Ha, Juhan Nam. Representation\
+Jiyoung Park, Jongpil Lee, Jangyeon Park, Jung-Woo Ha, Juhan Nam. Representation<br>
 Learning of Music Using Artist Labels. ISMIR 2018. 2018
 
 Keunchan Park, Jisoo Lee, Jaeho Choi. Deep Neural Networks for News Recommendations. CIKM 2017. 2017

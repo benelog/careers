@@ -54,58 +54,58 @@ NAVER AI Lab employees (full-time and interns) are distinguished by being displa
 
 ### 2024
 
-**ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emotions about Personal Events**\
-**Woosuk Seo**, Chanmo Yang,and **Young-Ho Kim** \
+**ChaCha: Leveraging Large Language Models to Prompt Children to Share Their Emotions about Personal Events**<br>
+**Woosuk Seo**, Chanmo Yang,and **Young-Ho Kim** <br>
 ACM CHI 2024 ([PDF](http://younghokim.net/files/papers/chacha-chi24-preprint-240219.pdf))
 
-**MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling**\
-**Taewan Kim**, Seolyeong Bae, Hyun Ah Kim, Su-woo Lee, Hwajung Hong, Chanmo Yang\*, and **Young-Ho Kim**\*(\*co-corresponding)\
+**MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling**<br>
+**Taewan Kim**, Seolyeong Bae, Hyun Ah Kim, Su-woo Lee, Hwajung Hong, Chanmo Yang\*, and **Young-Ho Kim**\*(\*co-corresponding)<br>
 ACM CHI 2024 ([PDF](http://younghokim.net/files/papers/kim_mindfuldiary_chi24_preprint_240222.pdf))
 
-**Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention**\
-**Eunkyung Jo**, Yuin Jeong, SoHyun Park, Daniel A. Epstein, and **Young-Ho Kim**\
+**Understanding the Impact of Long-Term Memory on Self-Disclosure with Large Language Model-Driven Chatbots for Public Health Intervention**<br>
+**Eunkyung Jo**, Yuin Jeong, SoHyun Park, Daniel A. Epstein, and **Young-Ho Kim**<br>
 ACM CHI 2024 ([PDF](http://younghokim.net/files/papers/carecall-ltm-chi24-preprint-240216.pdf))
 
-**DiaryMate: Understanding User Perceptions and Experience in Human-AI Collaboration for Personal Journaling**\
-**Taewan Kim**, Donghoon Shin, **Young-Ho Kim**, and Hwajung Hong\
+**DiaryMate: Understanding User Perceptions and Experience in Human-AI Collaboration for Personal Journaling**<br>
+**Taewan Kim**, Donghoon Shin, **Young-Ho Kim**, and Hwajung Hong<br>
 ACM CHI 2024 ([PDF](http://younghokim.net/files/papers/diarymate-chi24.pdf))
 
-**GenQuery: Supporting Expressive Visual Search with Generative Models**\
-Kihoon Son, DaEun Choi, Tae Soo Kim, **Young-Ho Kim**, and Juho Kim\
+**GenQuery: Supporting Expressive Visual Search with Generative Models**<br>
+Kihoon Son, DaEun Choi, Tae Soo Kim, **Young-Ho Kim**, and Juho Kim<br>
 ACM CHI 2024 ([PDF](http://younghokim.net/files/papers/genquery-chi24.pdf))
 
-**EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria**\
-Tae Soo Kim, Yoonjoo Lee, **Jamin Shin**, **Young-Ho Kim**, and Juho Kim\
+**EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria**<br>
+Tae Soo Kim, Yoonjoo Lee, **Jamin Shin**, **Young-Ho Kim**, and Juho Kim<br>
 ACM CHI 2024 ([PDF](http://younghokim.net/files/papers/evallm-chi24.pdf))
 
-Leveraging Large Language Models to Power Chatbots for Collecting User Self-Reported Data\
-**Jing Wei**, **Sungdong Kim**, Hyunhoon Jung, and **Young-Ho Kim**\
+Leveraging Large Language Models to Power Chatbots for Collecting User Self-Reported Data<br>
+**Jing Wei**, **Sungdong Kim**, Hyunhoon Jung, and **Young-Ho Kim**<br>
 PACM HCI (CSCW 2024)
 
 ### 2023
 
-**The Bot on Speaking Terms: The Effects of Conversation Architecture on Perceptions of Conversational Agents**\
-Christina Wei, **Young-Ho Kim**, and Anastasia Kuzminykh\
+**The Bot on Speaking Terms: The Effects of Conversation Architecture on Perceptions of Conversational Agents**<br>
+Christina Wei, **Young-Ho Kim**, and Anastasia Kuzminykh<br>
 ACM CUI 2023 ([PDF](http://younghokim.net/files/papers/bot-on-speaking-terms-wei-cui-2023.pdf))
 
-**Designing a Direct Feedback Loop between Humans and Convolutional Neural Networks through Local Explanations**\
-Tong Sun, Yuyang Gao, Shubham Khaladkar, Sijia Liu, Liang Zhao, **Young-Ho Kim,** and Sungsoo Ray Hong\
+**Designing a Direct Feedback Loop between Humans and Convolutional Neural Networks through Local Explanations**<br>
+Tong Sun, Yuyang Gao, Shubham Khaladkar, Sijia Liu, Liang Zhao, **Young-Ho Kim,** and Sungsoo Ray Hong<br>
 PACM HCI (CSCW 2023) ([PDF](http://younghokim.net/files/papers/deepfuse_sun_cscw2023.pdf))
 
-\[CHI Best Paper Award]\
-**Understanding the Benefits and Challenges of Deploying Conversational AI Leveraging Large Language Models for Public Health Intervention**\
-**Eunkyung Jo**, Daniel A. Epstein, Hyunhoon Jung, and **Young-Ho Kim**\
+\[CHI Best Paper Award]<br>
+**Understanding the Benefits and Challenges of Deploying Conversational AI Leveraging Large Language Models for Public Health Intervention**<br>
+**Eunkyung Jo**, Daniel A. Epstein, Hyunhoon Jung, and **Young-Ho Kim**<br>
 ACM CHI 2023 ([PDF](http://younghokim.net/files/papers/jo-carecall-chi2023.pdf))
 
-**AVscript: Accessible Video Editing with Audio-Visual Scripts**\
-Mina Huh, Saelyne Yang, Yi-Hao Peng, Xiang 'Anthony' Chen, **Young-Ho Kim**, and Amy Pavel\
+**AVscript: Accessible Video Editing with Audio-Visual Scripts**<br>
+Mina Huh, Saelyne Yang, Yi-Hao Peng, Xiang 'Anthony' Chen, **Young-Ho Kim**, and Amy Pavel<br>
 ACM CHI 2023 ([PDF](http://younghokim.net/files/papers/huh-avscript-chi2023.pdf))
 
-**DataHalo: A Customizable Notification Visualization System for Personalized and Longitudinal Interactions** \
-Guhyun Han, Jaehun Jung, **Young-Ho Kim**\*, and Jinwook Seo\* (\*co-corresponding)\
+**DataHalo: A Customizable Notification Visualization System for Personalized and Longitudinal Interactions** <br>
+Guhyun Han, Jaehun Jung, **Young-Ho Kim**\*, and Jinwook Seo\* (\*co-corresponding)<br>
 ACM CHI 2023 ([PDF](http://younghokim.net/files/papers/han-datahalo-chi2023.pdf))
 
-**DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions**\
-Yoonjoo Lee, Tae Soo Kim, **Sungdong Kim**, Yohan Yun, Juho Kim\
+**DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions**<br>
+Yoonjoo Lee, Tae Soo Kim, **Sungdong Kim**, Yohan Yun, Juho Kim<br>
 ACM CHI 2023
 

@@ -21,23 +21,23 @@
 
 네이버 서비스앱은 DevOps 전체 파이프라인을 자동화 하여 Read Time을 줄임과 동시에 안정적이며, 사용자 신뢰성을 확보해 나가고,이를 근간으로 다양한 장치로 서비스앱을 확장하여 플랫폼 Ecosystem안에서 서비스를 견고히 구축함으로서 네이버 서비스 Engagement를 개선/증대에 나가는 방향성을 목표로 합니다
 
-*   **Micro Feature**\
+*   **Micro Feature**<br>
     Feature 단위로 모듈화 하여 여러 서비스 조직과 함께 네이버앱을 구축해 나갈 수 있는 아키텍처를 지향하고 있으며, Android의 경우는 Dynamic Feature Module 기반으로 운영되어 기능 단위 on-demand를 지원합니다.
 
     <figure><img src="../../../.gitbook/assets/c554c700-4d51-11ec-9049-6d859e40773f.png" alt=""><figcaption></figcaption></figure>
-*   **Vitals**\
+*   **Vitals**<br>
     초 고퀄앱으로 나아가기 위하여 앱 품질을 다양한 Vital 들 기준으로 모니터링 해나가고 있습니다.
 
     <figure><img src="../../../.gitbook/assets/스크린샷 2023-01-02 오후 1.37.44.png" alt=""><figcaption></figcaption></figure>
-*   **LiveOps**\
+*   **LiveOps**<br>
     모바일앱이 직면하고 있는 실시간 운영의 한계를 극복해 나가기 위하여 실시간 운영 시스템을 구축하여 장애/운영전략등을 지원해 나가고 있습니다
 
     <figure><img src="../../../.gitbook/assets/스크린샷 2023-01-02 오후 1.55.02.png" alt=""><figcaption></figcaption></figure>
-*   **Multi Device**\
+*   **Multi Device**<br>
     구글/애플의 다양한 디바이스 생태계속에서 네이버 서비스 또한 서비스 플랫폼으로서 생태계를 구축해 나가고 있습니다.
 
     <figure><img src="../../../.gitbook/assets/스크린샷 2023-01-02 오후 1.57.48.png" alt=""><figcaption></figcaption></figure>
-* **Engage**\
+* **Engage**<br>
   네이버 Deeplink, Push, 위젯 등 사용자가 서비스에 쉽게 접근하기 위한 다양한 참여 전략을 마련해 나가고 있습니다.
 
 

@@ -12,7 +12,7 @@ NAVER UGC는 [네이버 블로그](https://blog.naver.com), [네이버 지식iN]
 
 ### 이런일을 맡고 있어요
 
-우리는[ ](https://band.us)NAVER UGC 서비스의  Front-end 개발을 담당하고 있으며 신규 기능 개발, 기존 기능 개선을 수행하여 서비스 성장에 기여하는 것을 목표로 합니다.\
+우리는[ ](https://band.us)NAVER UGC 서비스의  Front-end 개발을 담당하고 있으며 신규 기능 개발, 기존 기능 개선을 수행하여 서비스 성장에 기여하는 것을 목표로 합니다.<br>
 NAVER UGC Front-end 개발은 많은 사용자 트래픽, 다양한 UX/플랫폼/브라우저 기술을 대응하고 BFF(Back-end For Front-end) 아키텍처를 통해  웹 서비스 개운/영의 전반적이고 폭넓은 분야를 담당하는 등 도전적인 과제를 수행합니다.
 
 ### 입사하게 되면 담당할 업무입니다

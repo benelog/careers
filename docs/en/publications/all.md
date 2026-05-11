@@ -8,21 +8,21 @@ description: Full publication list of NAVER Cloud
 
 **Target venues: CHI (8), ICLR (2), CVPR (), ECCV (), ICML (), AAAI (), NAACL (), ACL (), EMNLP (), NeurIPS (), CoLM (1) ICASSP (), CSCW (), Interspeech ()**
 
-* Autiverse: Eliciting Autistic Adolescents' Daily Narratives through AI-guided Multimodal Journaling. \
+* Autiverse: Eliciting Autistic Adolescents' Daily Narratives through AI-guided Multimodal Journaling. <br>
   Migyeong Yang (NAVER AI Lab), Kyungah Lee, Jinyoung Han (SKKU), SoHyun Park (NAVER Cloud), and Young-Ho Kim (NAVER AI Lab). **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.17466)]\[[Project](https://naver-ai.github.io/autiverse/)]\[[Video(English)](https://www.youtube.com/watch?v=4kGJON8Yyxg\&feature=youtu.be)]\[[Video(Korean)](https://www.youtube.com/watch?v=9LWkA2dPi0s)]
-* LingoQ: Bridging the Gap between EFL Learning and Work through AI-Generated Work-Related Quizzes\
+* LingoQ: Bridging the Gap between EFL Learning and Work through AI-Generated Work-Related Quizzes<br>
   Yeonsun Yang, Sang Won Lee, Jean Y. Song, Sangdoo Yun, and Young-Ho Kim. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.17477)]\[[Project](https://naver-ai.github.io/lingo-q/)]\[[Video(English)](https://www.youtube.com/watch?v=sUteJ1wQinM\&feature=youtu.be)]\[[Video(Korean)](https://www.youtube.com/watch?v=c6rGHKAT7Xs)]
-* "Having Lunch Now": Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection.\
+* "Having Lunch Now": Understanding How Users Engage with a Proactive Agent for Daily Planning and Self-Reflection.<br>
   Adnan Abbas, Caleb Wohn, Arnav Jagtap, Eugenia H. Rho, Young-Ho Kim, and Sang Won Lee. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.24073)]
-* CHOIR: A Chatbot-mediated Organizational Memory Leveraging Communication in University Research Labs.\
+* CHOIR: A Chatbot-mediated Organizational Memory Leveraging Communication in University Research Labs.<br>
   Sangwook Lee, Adnan Abbas, Yan Chen, Young-Ho Kim, and Sang Won Lee. **ACM CHI 2026 (Honorable Mention Award).** \[[arXiv](https://arxiv.org/abs/2509.20512)]
-* An Empirical Study to Understand How Students Use ChatGPT for Writing Essays.\
+* An Empirical Study to Understand How Students Use ChatGPT for Writing Essays.<br>
   Andrew Jelson, Daniel Manesh, Alice Jang, Daniel Dunlap, Young-Ho Kim, and Sang Won Lee. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2501.10551)]
-* "Are we writing an advice column for Spock here?" Understanding Stereotypes in AI Advice for Autistic Users.\
+* "Are we writing an advice column for Spock here?" Understanding Stereotypes in AI Advice for Autistic Users.<br>
   Caleb Wohn, Buse Carik, Xiaohan Ding, Sang Won Lee, Young-Ho Kim, and Eugenia H. Rho. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2601.12690)]
-* ClearFairy: Capturing Creative Workflows through Decision Structuring, In-Situ Questioning, and Rationale Inference.\
+* ClearFairy: Capturing Creative Workflows through Decision Structuring, In-Situ Questioning, and Rationale Inference.<br>
   Kihoon Son, DaEun Choi, Tae Soo Kim, Young-Ho Kim, Sangdoo Yun, and Juho Kim. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2509.14537)]
-* Exploring Learners' Expectations and Engagement When Collaborating with Constructively Controversial Peer Agents.\
+* Exploring Learners' Expectations and Engagement When Collaborating with Constructively Controversial Peer Agents.<br>
   Thitaree Tanprasert, Young-Ho Kim, Sidney S. Fels, and Dongwook Yoon. **ACM CHI 2026.** \[[arXiv](https://arxiv.org/abs/2601.13479)]
 * CAMEO: Correspondence-Attention Alignment for Multi-View Diffusion Models. Minkyung Kwon (KAIST), Jinhyeok Choi (KAIST), Jiho Park (KAIST), Seonghu Jeon (KAIST), Jinhyuk Jang (KAIST), Junyoung Seo (KAIST), Minseop Kwak (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS), Seungryong Kim^ (KAIST). **CVPR 2026**. \[[arXiv](https://arxiv.org/abs/2512.03045)]\[[Project](https://cvlab-kaist.github.io/CAMEO/)]
 * _🗿_ MoAI: Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation. Min-Seop Kwak (KAIST), Junho Kim (NAVER AI Lab), Sangdoo Yun (NAVER AI Lab, SNU AIIS), Dongyoon Han (NAVER AI Lab, KAIST AI), Taekyoung Kim (NAVER AI Lab), Seungryong Kim^ (KAIST), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS). **ICLR 2026**. \[[arXiv](https://arxiv.org/abs/2506.11924)]\[[Project](https://cvlab-kaist.github.io/MoAI/)]
@@ -44,13 +44,13 @@ description: Full publication list of NAVER Cloud
 8. OCK: Unsupervised Dynamic Video Prediction with Object-Centric Kinematics. Yeon-Ji Song (SNU), Suhyung Choi (SNU), Jaein Kim (SNU), Jin-Hwa Kim^ (NAVER AI Lab, SNU AIIS), Byoung-Tak Zhang^ (SNU). **ICCV 2025**.&#x20;
 9. StyleKeeper: Prevent Content Leakage via a Negative Visual Query Guidance. Jaeseok Jeong\* (Yonsei Univ.), Junho Kim\* (NAVER AI Lab), Gayoung Lee (NAVER AI Lab), Yunjey Choi (NAVER AI Lab), Youngjung Uh (Yonsei Univ.). **ICCV 2025**_._
 10. Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos. Changwoon Choi (SNU), Jeongjun Kim (SNU), Geonho Cha (NAVER Cloud), Minkwan Kim (SNU), Dongyoon Wee (NAVER Cloud), Young Min Kim (SNU). **ICCV 2025**.
-11. CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images.\
+11. CoMoGaussian: Continuous Motion-Aware Gaussian Splatting from Motion-Blurred Images.<br>
     Jungho Lee (Yonsei Univ.), Donghyeong Kim (Yonsei Univ.), Dogyoon Lee (Yonsei Univ.), Suhwan Cho (Yonsei Univ.), Minhyeok Lee (Yonsei Univ.), Wonjoon Lee (Yonsei Univ.), Taeoh Kim (NAVER Cloud), Dongyoon Wee (NAVER Cloud), Sangyoun Lee (Yonsei Univ.). **ICCV 2025**.
 12. Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs. Jeongseok Hyun (Yonsei Univ.), Sukjun Hwang (CMU), Su Ho Han (Yonsei Univ.), Taeoh Kim, Inwoong Lee (NAVER Cloud), Dongyoon Wee (NAVER Cloud), Joon-Young Lee (Adobe Research), Seon Joo Kim (Yonsei Univ.), Minho Shim (NAVER Cloud). **ICCV 2025**.
-13. Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval.\
+13. Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval.<br>
     WonJun Moon (Sungkyunkwan Univ.), Cheol-Ho Cho (Sungkyunkwan Univ.), Woojin Jun (Sungkyunkwan Univ.), Taeoh Kim (NAVER Cloud), Inwoong Lee (NAVER Cloud), Dongyoon Wee (NAVER Cloud), Minho Shim (NAVER Cloud), Jae-Pil Heo (Sungkyunkwan Univ.). **ICCV 2025**.
 14. ZIM: Zero-Shot Image Matting for Anything. Beomyoung Kim (NAVER Cloud), Chanyong Shin (NAVER Cloud), Joonhyun Jeong (NAVER Cloud), Hyungsik Jung (NAVER Cloud), Se-Yun Lee (NAVER Cloud), Sewhan Chun (NAVER Cloud), Dong-Hyun Hwang (NAVER Cloud), Joonsang Yu (NAVER Cloud). **ICCV 2025**.
-15. Group-wise Scaling and Orthogonal Decomposition for Domain-Invariant Feature Extraction in Face Anti-Spoofing.\
+15. Group-wise Scaling and Orthogonal Decomposition for Domain-Invariant Feature Extraction in Face Anti-Spoofing.<br>
     Seungjin Jung (ChungAng Univ.), Kanghee Lee (ChungAng Univ.), Yonghyun Jeong (NAVER Cloud), Haeun Noh (ChungAng Univ.), Jungmin Lee (ChungAng Univ.), Jongwon Choi (ChungAng Univ.). **ICCV 2025**.
 16. Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection. Taehoon Kim (ChungAng Univ.), Jongwook Choi (ChungAng Univ.), Yonghyun Jeong (NAVER Cloud), Haeun Noh (ChungAng Univ.), Jaejun Yoo (UNIST), Seungryul Baek (UNIST), Jongwon Choi (ChungAng Univ.). **ICCV 2025**.
 17. NegMerge: Consensual Weight Negation for Strong Machine Unlearning. Hyoseo Kim (Sogang Univ.), Dongyoon Han\* (NAVER AI Lab), Junsuk Choe\* (Sogang Univ.). **ICML 2025.**
@@ -81,8 +81,8 @@ description: Full publication list of NAVER Cloud
 42. MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty. Yongjin Yang, Haneul Yoo, Hwaran Lee. **NAACL 2025**.
 43. Taxonomy and Analysis of Sensitive User Queries in Generative AI Search System. Hwiyeol Jo, Taiwoo Park, Hyunwoo Lee, Nayoung Choi, Changbong Kim, Ohjoon Kwon, Donghyeon Jeon, Eui-Hyeon Lee, Kyoungho Shin, Sun Suk Lim, Kyungmi Kim, Jihye Lee, Sun Kim.  **NAACL 2025 (findings)**.
 44. Extract Free Dense Misalignment from CLIP. JeongYeon Nam  (NAVER Cloud), Jinbae Im (NAVER Cloud), Wonjae Kim (NAVER AI Lab), Taeho Kil (NAVER Cloud). **AAAI 2025**.
-45. CUPID: Evaluating Personalized and Contextualized Alignment of LLMs from Interactions.\
-    Tae Soo Kim (KAIST), Yoonjoo Lee (KAIST), Yoonah Park (KAIST), Jiho Kim (KAIST), Young-Ho Kim (NAVER AI Lab), and Juho Kim (KAIST).\
+45. CUPID: Evaluating Personalized and Contextualized Alignment of LLMs from Interactions.<br>
+    Tae Soo Kim (KAIST), Yoonjoo Lee (KAIST), Yoonah Park (KAIST), Jiho Kim (KAIST), Young-Ho Kim (NAVER AI Lab), and Juho Kim (KAIST).<br>
     **CoLM 2025**.
 
 
@@ -118,7 +118,7 @@ description: Full publication list of NAVER Cloud
 25. Regularizing Dynamic Radiance Fields with Kinematic Fields. Woobin Im (KAIST), Geonho Cha (NAVER Cloud), Sebin Lee (KAIST), Jumin Lee (KAIST), Juhyeong Seon (KAIST), Dongyoon Wee (NAVER Cloud), Sung-Eui Yoon (KAIST), **ECCV 2024**.
 26. Motion-Oriented Compositional Neural Radiance Fields for Monocular Dynamic Human Modeling. Jaehyeok Kim (HKUST), Dongyoon Wee (NAVER Cloud), Dan Xu (HKUST), **ECCV 2024**.
 27. BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification. June-Woo Kim (Kyungpook National University), Miika Toikkanen (MODULABS), Yera Choi (NAVER Digital Healthcare LAB), Seoung-Eun Moon\* (NAVER Digital Healthcare LAB), Ho-Young Jung\* (Kyungpook National University), **Interspeech 2024**.
-28. The Explanation That Hits Home: The Characteristics of Verbal Explanations That Affect Human Perception in Subjective Decision-Making \
+28. The Explanation That Hits Home: The Characteristics of Verbal Explanations That Affect Human Perception in Subjective Decision-Making <br>
     Sharon Ferguson, Paula Akemi Aoyagui, Rimsha Rizvi, Young-Ho Kim (NAVER AI Lab), and Anastasia Kuzminykh, **PACM HCI (CSCW 2024).**
 29. LangBridge: Multilingual Reasoning without Multilingual Supervision, Dongkeun Yoon, Joel Jang, Sungdong Kim (NAVER CLOUD), Seungone Kim, Sheikh Shafayat, Minjoon Seo, **ACL 2024 Main.**
 30. Who Wrote this Code? Watermarking for Code Generation, Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee (NAVER AI Lab), Sangdoo Yun (NAVER AI Lab), Jamin Shin, Gunhee Kim, **ACL 2024 Main.**
@@ -629,17 +629,17 @@ Gayoung Lee, Dohyun Kim (NAVER Webtoon), Youngjoon Yoo, Dongyoon Han, Jung-Woo H
 
 Chae Young Lee, Youngmin Baek, Hwalsuk Lee. TedEval: A Fair Evaluation Metric for Scene Text Detectors. Workshop on Industrial Applications of Document Analysis and Recognition 2019.&#x20;
 
-Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo. CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features\
+Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo. CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features<br>
 Classification Robustness and Uncertainty. **ICCV 2019 (Oral)**.&#x20;
 
 Jeonghun Baek, Geewook Kim, Junyeop Lee, Sungrae Park, Dongyoon Han, Sangdoo Yun, Seong Joon Oh, Hwalsuk Lee. What is Wrong with Scene Text Recognition Model Comparisons? Dataset and Model Analysis. **ICCV 2019 (Oral)**.&#x20;
 
-Jaejun Yoo, Youngjung Uh, Sanghyuk Chun, Byungkyu Kang, Jung-Woo Ha. Photorealistic\
+Jaejun Yoo, Youngjung Uh, Sanghyuk Chun, Byungkyu Kang, Jung-Woo Ha. Photorealistic<br>
 Style Transfer via Wavelet Transforms. **ICCV 2019**.&#x20;
 
 Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi. A Comprehensive Overhaul of Feature Distillation. **ICCV 2019.**&#x20;
 
-Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee. Character\
+Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee. Character<br>
 Region Awareness for Text Detection. **CVPR 2019.**&#x20;
 
 Seunghyun Park, Seung Shin, Bado Lee, Junyeop Lee, Jaeheung Surh, Minjoon Seo, Hwalsuk Lee. CORD: A Consolidated Receipt Dataset for Post-OCR Parsing. Document Intelligence WS@NeurIPS 2019. 2019
@@ -648,15 +648,15 @@ YoungJoon Yoo, Dongyoon Han, Sangdoo Yun. EXTD: Extremely Tiny Face Detector via
 
 Minz Won, Sanghyuk Chun, Xavier Serra. Visualizing and Understanding Self-Attention Based Music Tagging. Machine Learning for Music Discovery Workshop (Contributed Talk)@ICML 2019. 2019
 
-Sanghyuk Chun, Seong Joon Oh, Sangdoo Yun, Dongyoon Han, Junsuk Choe, Youngjoon Yoo. An\
+Sanghyuk Chun, Seong Joon Oh, Sangdoo Yun, Dongyoon Han, Junsuk Choe, Youngjoon Yoo. An<br>
 Empirical Evaluation on Robustness and Uncertainty of Regularization methods Robustness and Uncertainty. Uncertainty & Robustness in Deep Learning Workshop@ICML 2019. 2019
 
 Youngjin Kim, Wontae Nam, Hyunwoo Kim, Ji-Hoon Kim, Gunhee Kim. Curiosity-Bottleneck: Exploration By Distilling Task-Specific Novelty. **ICML 2019**.&#x20;
 
-Xiaodong Gu, Kyunghyun Cho, Jung-Woo Ha, Sunghun Kim. DialogWAE:\
+Xiaodong Gu, Kyunghyun Cho, Jung-Woo Ha, Sunghun Kim. DialogWAE:<br>
 Multimodal Response Generation with Conditional Wasserstein Auto-Encoder. **ICLR 2019**.&#x20;
 
-Sang-Woo Lee, Tong Gao, Sohee Yang, Jaejun Yoo, Jung-Woo Ha. Large-Scale\
+Sang-Woo Lee, Tong Gao, Sohee Yang, Jaejun Yoo, Jung-Woo Ha. Large-Scale<br>
 Answerer in Questioner's Mind for Visual Dialog Question Generation. **ICLR 2019**.&#x20;
 
 Seong Joon Oh, Andrew C. Gallagher, Kevin P. Murphy, Florian Schroff, Jiyan Pan, Joseph Roth. Modeling Uncertainty with Hedged Instance Embeddings. **ICLR 2019**.&#x20;
@@ -671,10 +671,10 @@ Byeongho Heo, Minsik Lee, Sangdoo Yun, Jin Young Choi. Knowledge Transfer via Di
 
 Sunghyun Park, Seung-won Hwang, Fuxiang Chen, Jaegul Choo, Jung-Woo Ha, Sunghun Kim, Jinyeong Yim. Paraphrase Diversification using Counterfactual Debiasing. **AAAI 2019**.
 
-Jamin Shin, Andrea Madotto, Minjoon Seo, Pascale Fung. End-to-End\
+Jamin Shin, Andrea Madotto, Minjoon Seo, Pascale Fung. End-to-End<br>
 Question Answering Models for Goal-Oriented Dialog Learning. Workshop on DSTC 2019 (at AAAI). 2019
 
-Weonyoung Joo, Wonsung Lee, Sungrae Park, Il-Chul Moon. Dirichlet\
+Weonyoung Joo, Wonsung Lee, Sungrae Park, Il-Chul Moon. Dirichlet<br>
 Variational Autoencoder. arXiv. 2019
 
 
@@ -697,18 +697,18 @@ Sihyeon Seong (KAIST), Yekang Lee (KAIST), Youngwook Kee (KAIST), Dongyoon Han, 
 
 Minjoon Seo, Sewon Min, Ali Farhadi, Hannaneh Hajishirzi. Neural Speed Reading via Skim-RNN. ICLR 2018.&#x20;
 
-Jang-Hyun Kim, Jaejun Yoo, Sanghyuk Chun, Adrian Kim, Jung-Woo Ha. Multi-Domain\
+Jang-Hyun Kim, Jaejun Yoo, Sanghyuk Chun, Adrian Kim, Jung-Woo Ha. Multi-Domain<br>
 Processing via Hybrid Denoising Networks for Speech Enhancement. arXiv. 2018
 
-Eunwoo Song, Jinseob Kim, Kyungguen Byun, Hong-Goo Kang. Speaker-Adaptive\
+Eunwoo Song, Jinseob Kim, Kyungguen Byun, Hong-Goo Kang. Speaker-Adaptive<br>
 Neural Vocoders for Statistical Parametric Speech Synthesis Systems. arXiv. 2018
 
-Minjoon Seo, Tom Kwiatkowski, Ankur P. Parikh, Ali Farhadi, Hannaneh Hajishirzi. Phrase-Indexed\
+Minjoon Seo, Tom Kwiatkowski, Ankur P. Parikh, Ali Farhadi, Hannaneh Hajishirzi. Phrase-Indexed<br>
 Question Answering: A New Challenge towards Scalable Document Comprehension. EMNLP 2018. 2018
 
 Min-Jae Hwang, Eunwoo Song, Jin-Seob Kim, Hong-Goo Kang. A Unified Framework for the Generation of Glottal Signals in Deep Learning-Based Parametric Speech Synthesis Systems. Interspeech 2018. 2018
 
-Joun Yeop Lee, Sung Jun Cheon, Byoung Jin Choi, Nam Soo Kim, Eunwoo Song. Acoustic Modeling Using Adversarially Trained Variational Recurrent Neural Network for\
+Joun Yeop Lee, Sung Jun Cheon, Byoung Jin Choi, Nam Soo Kim, Eunwoo Song. Acoustic Modeling Using Adversarially Trained Variational Recurrent Neural Network for<br>
 Speech Synthesis. Interspeech 2018. 2018
 
 Triantafyllos Afouras, Joon Son Chung, Andrew Zisserman. Deep Lip Reading: a Comparison of Models and an Online Application. Interspeech 2018. 2018
@@ -723,12 +723,12 @@ Kyoung-Rok Jang, Sung-Hyon Myaeng, and Sang-Bum Kim: Interpretable Word Embeddin
 
 Taewon Yoon, Sung-Hyon Myaeng, Hyun-Wook Woo, Seung-Wook Lee, and Sang-Bum Kim: On Temporally Sensitive Word Embeddings for News Information Retrieval, proceedings of the Second International Workshop on Recent Trends in News Information Retrieval, ECIR2018
 
-Jiyoung Park, Jongpil Lee, Jangyeon Park, Jung-Woo Ha, Juhan Nam. Representation\
+Jiyoung Park, Jongpil Lee, Jangyeon Park, Jung-Woo Ha, Juhan Nam. Representation<br>
 Learning of Music Using Artist Labels. ISMIR 2018. 2018
 
 Xiaodong Gu, Hongyu Zhang, Sunghun Kim. Deep Code Search. ICSE 2018. 2018
 
-Seunghyun Park, You Jin Kim, Jeong Whun Kim, Jin Joo Park, Borim Ryu, Jung-Woo Ha. Interpretable\
+Seunghyun Park, You Jin Kim, Jeong Whun Kim, Jin Joo Park, Borim Ryu, Jung-Woo Ha. Interpretable<br>
 Prediction of Vascular Diseases from Electronic Health Records via Deep Attention Networks. IEEE BIBE 2018.
 
 Hanjoo Kim, Minkyu Kim, Dongjoo Seo, Jinwoong Kim, Heungseok Park, Soeun Park, Hyunwoo Jo, KyungHyun Kim, Youngil Yang, Youngkwan Kim, Nako Sung, Jung-Woo Ha. NSML: Meet the MLaaS Platform with a Real-World Case Study. arXiv. 2018
@@ -753,7 +753,7 @@ Sang-Woo Lee, Jin-Hwa Kim, Jaehyun Jun, Jung-Woo Ha, Byoung-Tak Zhang. Overcomin
 
 Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim. Dual attention networks for multimodal reasoning and matching. CVPR 2017 (Spot).&#x20;
 
-Jungyeul Park, Loic Dugast, Jeen-Pyo Hong, Chang-Uk Shin, Jeong-Won Cha. Building a Better Bitext for Structurally Different Languages through Self-Training. Workshop on Curation and Applications of\
+Jungyeul Park, Loic Dugast, Jeen-Pyo Hong, Chang-Uk Shin, Jeong-Won Cha. Building a Better Bitext for Structurally Different Languages through Self-Training. Workshop on Curation and Applications of<br>
 Parallel and Comparable Corpora in IJCNLP 2017. 2017
 
 Jin-Hwa Kim, Kyoung-Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang. Hadamard product for low-rank bilinear pooling. ICLR 2017. 2017

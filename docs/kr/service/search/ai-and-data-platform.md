@@ -7,7 +7,7 @@ description: 검색플랫폼의 AI Data Platform을 소개합니다.
 ## AI Data Platform은
 
 {% hint style="success" %}
-**Data Platform은 NAVER의 방대한 데이터를 한 곳에 모아 효율적으로 활용할 수 있도록 데이터를 수집, 저장, 처리 및 분석할 수 있는 통합 플랫폼을 구축하여 NAVER 구성원에게 제공합니다.**\
+**Data Platform은 NAVER의 방대한 데이터를 한 곳에 모아 효율적으로 활용할 수 있도록 데이터를 수집, 저장, 처리 및 분석할 수 있는 통합 플랫폼을 구축하여 NAVER 구성원에게 제공합니다.**<br>
 **네이버 내에서 AWS, GCP, Azure, Databricks, Snowflake등과 같은 역할을 수행합니다.**
 {% endhint %}
 

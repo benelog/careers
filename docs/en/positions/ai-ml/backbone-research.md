@@ -2,8 +2,8 @@
 
 ### **About Us**
 
-Our team is devoted to a comprehensive exploration of fundamental topics in deep learning and artificial intelligence. We have a strong passion for developing efficient and powerful deep neural network models and rigorously training them to establish a solid foundation. \
-\
+Our team is devoted to a comprehensive exploration of fundamental topics in deep learning and artificial intelligence. We have a strong passion for developing efficient and powerful deep neural network models and rigorously training them to establish a solid foundation. <br>
+<br>
 Our focus lies in advancing large language models from a **machine-learning perspective** toward **multimodal learning and beyond**. Our research interests are summarized as follows:
 
 ### Research topics - w**e do everything related to LLMs and VLMs**&#x20;

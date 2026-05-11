@@ -24,7 +24,7 @@ NAVER 인공 지능 개인화 추천/검색 플랫폼인 AiRSearch를 개발 운
 * 분산 시스템/컨테이너 기술을 이용한 API 개발
 * SRE 기반 서비스 개발, 배포 및 운영&#x20;
 
-**#Back-End Engineering #Data Engineering #SRE** \
+**#Back-End Engineering #Data Engineering #SRE** <br>
 **#DevOps #Machine Learning Engineering**
 
 ## 함께하고 싶어요.

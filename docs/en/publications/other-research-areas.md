@@ -24,14 +24,14 @@ Hyunhoon Jung, Hyeji Kim, Jung-Woo Ha. Understanding Differences between Heavy U
 
 Seungjae Jung, Kyung-Min Kim, Hanock Kwak, Young-Jin Park. A Worrying Analysis of Probabilistic Time-series Models for Sales Forecasting. PMLR (in press), ICBINB@NeurIPS 2020.
 
-Minz Won, Sanghyuk Chun, Xavier Serra. Toward\
+Minz Won, Sanghyuk Chun, Xavier Serra. Toward<br>
 Interpretable Music Tagging with Self-Attention. arXiv. 2019
 
 Xiaodong Gu, Hongyu Zhang (Univ. of Newcastle), Sunghun Kim. CodeKernel: A Graph Kernel Based Approach to the Selection of API Usage Examples. IEEE/ACM ASE 2019. 2019
 
 Xiaodong Gu, Hongyu Zhang, Sunghun Kim. Deep Code Search. ICSE 2018. 2018
 
-Seunghyun Park, You Jin Kim, Jeong Whun Kim, Jin Joo Park, Borim Ryu, Jung-Woo Ha. Interpretable\
+Seunghyun Park, You Jin Kim, Jeong Whun Kim, Jin Joo Park, Borim Ryu, Jung-Woo Ha. Interpretable<br>
 Prediction of Vascular Diseases from Electronic Health Records via Deep Attention Networks. IEEE BIBE 2018.
 
 Hanjoo Kim, Minkyu Kim, Dongjoo Seo, Jinwoong Kim, Heungseok Park, Soeun Park, Hyunwoo Jo, KyungHyun Kim, Youngil Yang, Youngkwan Kim, Nako Sung, Jung-Woo Ha. NSML: Meet the MLaaS Platform with a Real-World Case Study. arXiv. 2018

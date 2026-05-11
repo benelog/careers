@@ -6,8 +6,8 @@ description: '#Let''s Shift Left, #DevSecOps, #보안개발, #서버개발'
 
 ### 소개
 
-네이버 Security Development에서는 DevSecOps 시스템을 구현하여 네이버 서비스를 안전하게 개발/운영할 수 있게 지원하고 있습니다.\
-DevSecOps, Regulation Technology, Homomorphic encryption 등 다양한 보안 분야에 대해 개발할 수 있는 기회가 있습니다.\
+네이버 Security Development에서는 DevSecOps 시스템을 구현하여 네이버 서비스를 안전하게 개발/운영할 수 있게 지원하고 있습니다.<br>
+DevSecOps, Regulation Technology, Homomorphic encryption 등 다양한 보안 분야에 대해 개발할 수 있는 기회가 있습니다.<br>
 새로운 IT 영역에서의 보안 위협을 연구하고 구현이 가능하신 분, 보안 개발을 통해 보다 더 안전한 네이버 서비스를 만들고 싶으신 분을 모십니다.
 
 

@@ -90,20 +90,20 @@ Gayoung Lee, Dohyun Kim (NAVER Webtoon), Youngjoon Yoo, Dongyoon Han, Jung-Woo H
 
 Chae Young Lee, Youngmin Baek, Hwalsuk Lee. TedEval: A Fair Evaluation Metric for Scene Text Detectors. Workshop on Industrial Applications of Document Analysis and Recognition 2019.&#x20;
 
-Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo. CutMix:\
-Regularization Strategy to Train Strong Classifiers with Localizable Features\
+Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo. CutMix:<br>
+Regularization Strategy to Train Strong Classifiers with Localizable Features<br>
 Classification Robustness and Uncertainty. ICCV 2019 (Oral).&#x20;
 
-Jeonghun Baek, Geewook Kim, Junyeop Lee, Sungrae Park, Dongyoon Han, Sangdoo Yun, Seong Joon Oh, Hwalsuk Lee. What is\
-Wrong with Scene Text Recognition Model Comparisons? Dataset and Model\
+Jeonghun Baek, Geewook Kim, Junyeop Lee, Sungrae Park, Dongyoon Han, Sangdoo Yun, Seong Joon Oh, Hwalsuk Lee. What is<br>
+Wrong with Scene Text Recognition Model Comparisons? Dataset and Model<br>
 Analysis. ICCV 2019 (Oral).&#x20;
 
-Jaejun Yoo, Youngjung Uh, Sanghyuk Chun, Byungkyu Kang, Jung-Woo Ha. Photorealistic\
+Jaejun Yoo, Youngjung Uh, Sanghyuk Chun, Byungkyu Kang, Jung-Woo Ha. Photorealistic<br>
 Style Transfer via Wavelet Transforms. ICCV 2019.&#x20;
 
 Byeongho Heo, Jeesoo Kim, Sangdoo Yun, Hyojin Park, Nojun Kwak, Jin Young Choi. A Comprehensive Overhaul of Feature Distillation. ICCV 2019.&#x20;
 
-Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee. Character\
+Youngmin Baek, Bado Lee, Dongyoon Han, Sangdoo Yun, Hwalsuk Lee. Character<br>
 Region Awareness for Text Detection. CVPR 2019.&#x20;
 
 
