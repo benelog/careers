@@ -44,6 +44,11 @@ IMG_BRACKETED_RE = re.compile(
 IMG_BARE_RE = re.compile(
     r"!\[" + _ALT + r"\]\(\s*(?:\.\./)*\.gitbook/assets/(?P<name>[^)\s]+)\s*\)"
 )
+# <img src="../../.gitbook/assets/foo.png"> — HTML form GitBook uses for
+# <figure> blocks. Supports any number of leading "../" and both quote styles.
+IMG_HTML_RE = re.compile(
+    r"""(?P<attr>\bsrc=)(?P<q>["'])(?:\.\./)+\.gitbook/assets/(?P<name>[^"']+)(?P=q)"""
+)
 
 # {% embed url="https://..." %}
 EMBED_RE = re.compile(r"\{%\s*embed\s+url=\"(?P<url>[^\"]+)\"\s*%\}")
@@ -68,8 +73,14 @@ def transform_markdown(text: str, lang: str) -> str:
         name = m.group("name").strip()
         return f"![{alt}](/careers/assets/{lang}/{_encode_asset(name)})"
 
+    def img_html_sub(m: re.Match) -> str:
+        name = m.group("name").strip()
+        q = m.group("q")
+        return f'{m.group("attr")}{q}/careers/assets/{lang}/{_encode_asset(name)}{q}'
+
     text = IMG_BRACKETED_RE.sub(img_sub, text)
     text = IMG_BARE_RE.sub(img_sub, text)
+    text = IMG_HTML_RE.sub(img_html_sub, text)
     text = EMBED_RE.sub(lambda m: f"[{m.group('url')}]({m.group('url')})", text)
     text = ANCHOR_RE.sub("", text)
     text = README_LINK_RE.sub(

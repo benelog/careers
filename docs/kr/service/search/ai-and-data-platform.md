@@ -19,7 +19,7 @@ description: 검색플랫폼의 AI Data Platform을 소개합니다.
 * 검색과 AI에 필요한 콘텐츠를 확보하고 활용하기 쉽도록 관리하는 업무도 수행합니다.
 * 콘텐츠 관리를 통해 사내 담당자들이 필요한 콘텐츠를 쉽게 찾고 활용할 수 있도록 지원합니다.  &#x20;
 
-<figure><img src="../../.gitbook/assets/img.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/careers/assets/kr/img.png" alt=""><figcaption></figcaption></figure>
 
 ## 구체적으로 하는 일은
 
@@ -48,7 +48,7 @@ description: 검색플랫폼의 AI Data Platform을 소개합니다.
 
 ***
 
-<figure><img src="../../.gitbook/assets/skils.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="/careers/assets/kr/skils.PNG" alt=""><figcaption></figcaption></figure>
 
 * 분산 데이터 저장 - HBase, Kafka, MongoDB, mysql, redis, Elasticsearch
 * 클라우드 & 분산 시스템 - K8S (서버 운영 포함), Spring Cloud, Yarn, Docker, Network server, 분산 환경 보안 전문가

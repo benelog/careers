@@ -21,7 +21,7 @@ CLOVA and AI LAB, which have continuously invested in large-scale AI research an
 
 #### Academic Achievement of CLOVA & AI LAB in 2022
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/careers/assets/en/image%20(27).png" alt=""><figcaption></figcaption></figure>
 
 * [Full publication list](https://naver-career.gitbook.io/en/publications/all)
 * Github: [CLOVA](https://github.com/clovaai), [AI Lab](https://github.com/naver-ai)
@@ -34,7 +34,7 @@ CLOVA and AI LAB, which have continuously invested in large-scale AI research an
 
 Naver recently launched HyperCLOVA, a Korean AI with a model size of 204B, in May 2021 after investing in Hyperscale AI, which is drawing attention as a key to a new era of AI technology and service development. Super-scale AI, which can create various services with one big model, is already used for Naver's various services and startup services such as CLOVA Studio, CLOVA Carecall, and CLOVA Note, and is becoming a global leader in the super-large AI field.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Naver is the most-used platform in Korea and has the capability to manage high-quality and massive data.</p></figcaption></figure>
+<figure><img src="/careers/assets/en/image%20(34).png" alt=""><figcaption><p>Naver is the most-used platform in Korea and has the capability to manage high-quality and massive data.</p></figcaption></figure>
 
 #### Continuous discussion of AI ethical standards
 
