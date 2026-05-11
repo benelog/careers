@@ -107,18 +107,27 @@
   display: block;
 }
 
+/* glightbox wraps each <img> in <a class="glightbox"> — make the wrapper
+ * fill its figure so the image keeps its computed width. */
+.md-typeset figure a.glightbox {
+  display: block;
+}
+
 .md-typeset div:has(> figure) {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
+  flex-wrap: nowrap;
+  gap: 0.5rem;
   align-items: flex-start;
-  justify-content: center;
   margin: 1em 0;
 }
 
+/* All figures stay on one row; min-width: 0 lets flex actually shrink them
+ * below their image's intrinsic width. flex: 1 1 0 distributes the row
+ * evenly so no item gets stretched on its own line. */
 .md-typeset div:has(> figure) > figure {
   flex: 1 1 0;
-  min-width: 80px;
+  min-width: 0;
+  max-width: none;
   margin: 0;
 }
 
