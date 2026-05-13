@@ -56,7 +56,7 @@ This workshop will be held at [ACM FAccT 2022](https://facctconference.org/2022/
 
 ## Presentation video
 
-[https://youtu.be/S7e39_bfloA](https://youtu.be/S7e39_bfloA)
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/S7e39_bfloA" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 

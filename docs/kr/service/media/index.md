@@ -98,9 +98,8 @@ description: 미디어Tech
 
 1.1억 건의 CP 문서를 분야, 연도, 키워드별로 카테고라이징하고 문서 간 인용 정보를 구성하며, 검색을 더하여 연구 트렌드 분석과 인용 정보를 손쉽게 활용할 수 있는 서비스를 제공합니다.
 
-[https://www.youtube.com/watch?v=TJHrIHgDDeY](https://www.youtube.com/watch?v=TJHrIHgDDeY)
-스칼라틱스 소개 영상
-{% endembed %}
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/TJHrIHgDDeY" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p class="video-caption">스칼라틱스 소개 영상</p>
 
 [Scholytics](https://scholytics.net/)는 학술정보 데이터 기반의 연구평가 플랫폼입니다. 비정형화된 문서 정보에서 저자, 기관을 식별을 다양한 알고리즘을 통해 매칭하고 저자와 문서, 문서와 문서 간의 관계를 정형화하여 기간과 연구자 관점의 다양한 분석 메트릭을 제공하고 있습니다. 또한 여러 트를 통해 분야별 트렌트나 국가, 기간, 그룹별 비교가 용이한 시각화 분석 기능도 가지고 있습니다.&#x20;
 

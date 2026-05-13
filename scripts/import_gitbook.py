@@ -50,8 +50,17 @@ IMG_HTML_RE = re.compile(
     r"""(?P<attr>\bsrc=)(?P<q>["'])(?:\.\./)+\.gitbook/assets/(?P<name>[^"']+)(?P=q)"""
 )
 
-# {% embed url="https://..." %}
-EMBED_RE = re.compile(r"\{%\s*embed\s+url=\"(?P<url>[^\"]+)\"\s*%\}")
+# {% embed url="https://..." %}        (bare form)
+# {% embed url="..." %}\n caption \n{% endembed %}   (with caption block)
+EMBED_RE = re.compile(
+    r"\{%\s*embed\s+url=\"(?P<url>[^\"]+)\"\s*%\}"
+    r"(?:[ \t]*\n(?P<caption>(?!\s*\{%)[^\n]+)[ \t]*\n\{%\s*endembed\s*%\})?"
+)
+
+# Capture the YouTube video id from any of the common URL shapes.
+YOUTUBE_ID_RE = re.compile(
+    r"(?:youtube\.com/watch\?v=|youtu\.be/|youtube\.com/embed/)(?P<id>[A-Za-z0-9_-]{6,})"
+)
 
 # <a href="#anchor" id="anchor"></a>  (GitBook anchor trick — usually empty)
 ANCHOR_RE = re.compile(r"<a\s+href=\"#[^\"]*\"\s+id=\"[^\"]*\"\s*>\s*</a>")
@@ -65,6 +74,29 @@ README_LINK_RE = re.compile(
 def _encode_asset(name: str) -> str:
     """URL-encode an asset filename so spaces, parens, and Korean chars work."""
     return quote(name, safe="/()")
+
+
+def _render_embed(m: re.Match) -> str:
+    url = m.group("url").strip()
+    caption = (m.group("caption") or "").strip()
+    yt = YOUTUBE_ID_RE.search(url)
+    if yt:
+        vid = yt.group("id")
+        iframe = (
+            '<div class="video-embed">'
+            f'<iframe src="https://www.youtube.com/embed/{vid}" '
+            'title="YouTube video" frameborder="0" '
+            'allow="accelerometer; autoplay; clipboard-write; '
+            'encrypted-media; gyroscope; picture-in-picture" '
+            'allowfullscreen></iframe>'
+            '</div>'
+        )
+        if caption:
+            return f'{iframe}\n<p class="video-caption">{caption}</p>'
+        return iframe
+    if caption:
+        return f"[{caption}]({url})"
+    return f"[{url}]({url})"
 
 
 def transform_markdown(text: str, lang: str) -> str:
@@ -81,7 +113,7 @@ def transform_markdown(text: str, lang: str) -> str:
     text = IMG_BRACKETED_RE.sub(img_sub, text)
     text = IMG_BARE_RE.sub(img_sub, text)
     text = IMG_HTML_RE.sub(img_html_sub, text)
-    text = EMBED_RE.sub(lambda m: f"[{m.group('url')}]({m.group('url')})", text)
+    text = EMBED_RE.sub(_render_embed, text)
     text = ANCHOR_RE.sub("", text)
     text = README_LINK_RE.sub(
         lambda m: f"{m.group('prefix')}{m.group('path')}index.md{m.group('suffix')}",
