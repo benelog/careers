@@ -7,7 +7,7 @@
 <br>
 **인텐트 검색(intent search)**&#xC774;란, 사용자가 막연한 검색어를 입력하더라도 원 검색 의도에 잘 맞는 검색 결과를 구조화해서 제공하는 검색 기술을 총칭하는 네이버 의 용어입니다. 인텐트 검색 기술은 현재 **스마트 블록(smart block)** 서비스에 적용되어, 사용자가 상황 별로 다양한 관심 정보를 탐색할 수 있도록 돕고 있습니다.
 
-![  ](/careers/assets/kr/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B8%94%EB%A1%9D%5C(%EC%A3%BC%EC%A0%9C%EB%B3%84%EA%B2%80%EC%83%89%5C).jpg)
+![  ](/careers/assets/kr/%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B8%94%EB%A1%9D(%EC%A3%BC%EC%A0%9C%EB%B3%84%EA%B2%80%EC%83%89).jpg)
 
 
 
