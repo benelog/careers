@@ -14,7 +14,7 @@ Papago Server 팀은 파파고 번역 및 사전 서비스 전반에 대한 soft
 
 새로운 서비스를 계속적으로 만들어 나가는 조직으로 legacy보다는 최신 트렌드로 새로운 프로젝트의 설계부터 구현까지 좋은 경험의 기회가 열려있습니다. 또한 대용량 트래픽 운영을 경험할 수 있고, GPU 서버를 접할 수 있으며 여러 나라 동료들과 협업해 볼 수 있다는 측면에서 일반적인 BE팀과 차별화된 Career Path를 가져갈 수 있다 생각됩니다.
 
-![](/careers/assets/kr/servers.png)
+![](/assets/kr/servers.png)
 
 ## Papago Translate 서비스 Back-end 개발
 

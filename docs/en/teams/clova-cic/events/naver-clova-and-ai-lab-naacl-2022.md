@@ -4,7 +4,7 @@ description: Main track and workshop presentation at NAACL 2022 (July 10 - 15)
 
 # NAVER CLOVA & AI Lab @ NAACL 2022
 
-![](/careers/assets/en/image%20(23).png)
+![](/assets/en/image%20(23).png)
 
 ## Main Track
 

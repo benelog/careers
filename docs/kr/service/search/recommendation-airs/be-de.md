@@ -8,9 +8,9 @@ NAVER 인공 지능 개인화 추천/검색 플랫폼인 AiRSearch를 개발 운
 
 글로벌 규모의 대용량 데이터를 안정적으로 가공해야 할 뿐아니라 수 억 명 이상의 사용자 요청을 중단 없이 실시간으로 처리해 빠르게 응답해야 하는 도전적인 목표를 가지고 일합니다.
 
-![개인화 검색/추천 시스템 요청/데이터 흐름도](/careers/assets/kr/image%20(25).png)
+![개인화 검색/추천 시스템 요청/데이터 흐름도](/assets/kr/image%20(25).png)
 
-![네이버 검색 질의 분석 시스템 요청/데이터 흐름도](/careers/assets/kr/image%20(96).png)
+![네이버 검색 질의 분석 시스템 요청/데이터 흐름도](/assets/kr/image%20(96).png)
 
 ![네이버 스마트 블록 시스템 요청/데이터 흐름도](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MXlYqHAZoTmO3t5Lqyc%2Fuploads%2FQnGySez9IlnUpHO8al8i%2Fimage.png?alt=media\&token=80f01305-76eb-4f44-9062-2bba74275a90)
 

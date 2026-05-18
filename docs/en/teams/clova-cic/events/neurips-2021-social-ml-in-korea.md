@@ -1,6 +1,6 @@
 # NeurIPS 2021 Social: ML in Korea
 
-![](/careers/assets/en/NeurIPS2021_thumbnail.png)
+![](/assets/en/NeurIPS2021_thumbnail.png)
 
 We invite everyone who is part of and/or interested in the ML research scene in Korea. Participants can introduce their own ML research, especially if it's part of NeurIPS 2021. They can also introduce NeurIPS 2021 papers that they find interesting and discuss them with other participants. Other possible discussion topics include (but are not limited to): Korean NLP, computer vision and datasets, ML for post COVID-19 era, and career options in academia/industry in Korea. We welcome everyone from anywhere in the world, as long as you can keep awake if our event falls in the middle of the night for you. Note that we had this same Social at ICLR 2020, 2021 and NeurIPS 2020 with active participation of more than 100 people.
 
@@ -12,7 +12,7 @@ We invite everyone who is part of and/or interested in the ML research scene in 
 
 ### Schedule
 
-![Program schedule](/careers/assets/en/image.png)
+![Program schedule](/assets/en/image.png)
 
 ### Plenary talk&#x20;
 
@@ -39,12 +39,12 @@ Deep learning has achieved remarkable success in the last decade, and the unprec
 
 ## Sponsors
 
-![](/careers/assets/en/2021%20Sponsors%20CI_20211020.png)
+![](/assets/en/2021%20Sponsors%20CI_20211020.png)
 
 ## Neurips 2021 paper wall - 1
 
-![](/careers/assets/en/image%20(35).png)
+![](/assets/en/image%20(35).png)
 
 ## Neurips 2021 paper wall - 2
 
-![](/careers/assets/en/image%20(26).png)
+![](/assets/en/image%20(26).png)

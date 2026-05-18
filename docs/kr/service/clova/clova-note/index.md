@@ -1,6 +1,6 @@
 # CLOVA Note
 
-![](/careers/assets/kr/image%20(55).png)
+![](/assets/kr/image%20(55).png)
 
 클로바노트는 클로바의 음성 인식 엔진(NEST) 기술을 활용한 음성 기록 관리 서비스입니다.
 

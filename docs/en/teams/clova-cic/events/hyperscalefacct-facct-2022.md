@@ -6,7 +6,7 @@ description: >-
 
 # HyperscaleFAccT @ FAccT 2022
 
-![](/careers/assets/en/0510_FAccT_Banner.jpg)
+![](/assets/en/0510_FAccT_Banner.jpg)
 
 ## Summary
 
@@ -74,14 +74,14 @@ This workshop will be held at [ACM FAccT 2022](https://facctconference.org/2022/
 
 
 
-[![](/careers/assets/en/NAVERCLOVA_Horizontal_Black.png)](https://clova.ai/)
+[![](/assets/en/NAVERCLOVA_Horizontal_Black.png)](https://clova.ai/)
 
 
 
-[![](/careers/assets/en/nle_3%20(1).svg)](https://europe.naverlabs.com)
+[![](/assets/en/nle_3%20(1).svg)](https://europe.naverlabs.com)
 
 
 
 ##
 
-![](/careers/assets/en/HyperscaleFAccT_Poster%401.5x.jpg)
+![](/assets/en/HyperscaleFAccT_Poster%401.5x.jpg)

@@ -10,7 +10,7 @@ GLACE = Global Place
 
 ### LINE PLACE iOS
 
-<figure><img src="/careers/assets/kr/LINE_PLACE.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/kr/LINE_PLACE.png" alt=""><figcaption></figcaption></figure>
 
 * 사진이나 동영상으로 가고 싶은 가게와 먹고 싶은 음식을 찾을 수있는 서비스.
 * 영수증이나 리뷰를 게시하여 자신만의 음식·외출 로그를 남길 수 있
@@ -22,7 +22,7 @@ GLACE = Global Place
 
 ### MYPlace iOS
 
-<figure><img src="/careers/assets/kr/MyPlace.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/kr/MyPlace.png" alt=""><figcaption></figcaption></figure>
 
 * 환경 : Xcode, Swift 상 최신화 지향, Combine, UIKit
 * GraphQL, 이미지 및 동영상 처리,&#x20;

@@ -15,5 +15,5 @@ description: >-
 * Pretrained Language Model
 * GPT3, BERT, Electra, T5
 
-![](/careers/assets/kr/image%20(83).png)
+![](/assets/kr/image%20(83).png)
 

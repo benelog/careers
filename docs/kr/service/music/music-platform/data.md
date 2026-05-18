@@ -16,7 +16,7 @@ description: 데이터 엔지니어링
 
 \- 서비스 품질 향상 (에러 탐지, 검색 성능 등)
 
-<figure><img src="/careers/assets/kr/image.png" alt=""><figcaption><p>Music Data Dashboard</p></figcaption></figure>
+<figure><img src="/assets/kr/image.png" alt=""><figcaption><p>Music Data Dashboard</p></figcaption></figure>
 
 * 기술 스택   &#x20;
 

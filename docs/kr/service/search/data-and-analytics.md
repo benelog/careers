@@ -20,7 +20,7 @@ description: 네이버 서치의 Data Science & Engineering 팀인 Data & Analyt
 
 설립 1년만에 DnA팀의 데이터 및 실험 인프라가 네이버 검색의 신규 피쳐 Launch Decision의 표준 프로세스로 자리 잡았습니다. 2년차인 올해는 이를 바탕으로 서비스의 양적인 성장과 품질 개선을 뒷받침할 수 있는 각종 지표와 관리 플랫폼을 개발하고 있습니다. 내년부터 이들 플랫폼을 바탕으로 네이버 검색과 광고의 각 구성원들이 원하는 고품질의 데이터와 분석 결과를 효율적으로 볼 수 있게 하는 것을 목표로 열심히 달려가고 있습니다.
 
-![DnA Status & Vision](/careers/assets/kr/image%20(17).png)
+![DnA Status & Vision](/assets/kr/image%20(17).png)
 
 ### DnA Culture&#x20;
 

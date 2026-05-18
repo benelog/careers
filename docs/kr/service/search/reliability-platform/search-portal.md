@@ -1,6 +1,6 @@
 # Search Portal
 
-![Search Portal에서 하는 일](/careers/assets/kr/image%20(46).png)
+![Search Portal에서 하는 일](/assets/kr/image%20(46).png)
 
 ## 글로벌 검색 엣지 서버 개발 
 

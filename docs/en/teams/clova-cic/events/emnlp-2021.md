@@ -6,7 +6,7 @@ description: >-
 
 # EMNLP 2021
 
-![](/careers/assets/en/image%20(29).png)
+![](/assets/en/image%20(29).png)
 
 ## Presentation Schedule
 

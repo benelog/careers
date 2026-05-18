@@ -15,7 +15,7 @@ description: >-
 
 을 포함합니다.
 
-![](/careers/assets/kr/image%20(53).png)
+![](/assets/kr/image%20(53).png)
 
 ## Knowledge Base QA
 
@@ -24,7 +24,7 @@ description: >-
 * Graph Embedding
 * Graph Search
 
-![Knowledge Graph](/careers/assets/kr/image%20(69).png)
+![Knowledge Graph](/assets/kr/image%20(69).png)
 
 ## 지식스니펫
 

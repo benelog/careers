@@ -4,6 +4,6 @@
 
 &#x20;오늘 TOP100.....billboard HOT100 차트까지 재생횟수, 다운로드횟수..++@ 사재기 어뷰징을 방지한 차트를 제공합니다. &#x20;
 
-![CHART LIST](/careers/assets/kr/music-chart-list.png)
+![CHART LIST](/assets/kr/music-chart-list.png)
 
-![VIBE CHART](/careers/assets/kr/music-vibe-chart.png)
+![VIBE CHART](/assets/kr/music-vibe-chart.png)

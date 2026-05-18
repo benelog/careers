@@ -56,15 +56,15 @@
 
 **함께 만들어보지 않으시겠어요?**
 
-![웨일만의 Picture In Picture 기능을 통한 서핑하면서 즐길 수 있는 영상 시청](/careers/assets/kr/pip.png)
+![웨일만의 Picture In Picture 기능을 통한 서핑하면서 즐길 수 있는 영상 시청](/assets/kr/pip.png)
 
-![개성있고 이쁜 나만의 뉴탭 제공](/careers/assets/kr/Iphone_12.9_02.png)
+![개성있고 이쁜 나만의 뉴탭 제공](/assets/kr/Iphone_12.9_02.png)
 
-![웹서핑과 함께 하면 편리한 도구들의 모음](/careers/assets/kr/Iphone_12.9_03.png)
+![웹서핑과 함께 하면 편리한 도구들의 모음](/assets/kr/Iphone_12.9_03.png)
 
-![새로운 탭을 열지 않고도 서핑하면서 바로 열어서 볼 수 있는 퀵서치](/careers/assets/kr/Iphone_12.9_04.png)
+![새로운 탭을 열지 않고도 서핑하면서 바로 열어서 볼 수 있는 퀵서치](/assets/kr/Iphone_12.9_04.png)
 
-![보다 진화된 북마크 기능인 스크랩북](/careers/assets/kr/Iphone_12.9_05.png)
+![보다 진화된 북마크 기능인 스크랩북](/assets/kr/Iphone_12.9_05.png)
 
-![악성 광고는 물렀거라!! 광고차단](/careers/assets/kr/Iphone_12.9_06.png)
+![악성 광고는 물렀거라!! 광고차단](/assets/kr/Iphone_12.9_06.png)
 

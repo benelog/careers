@@ -6,7 +6,7 @@ description: >-
 
 # CLOVA & AI Lab @ ICML 2022
 
-![](/careers/assets/en/image%20(25).png)
+![](/assets/en/image%20(25).png)
 
 ## Main Track
 

@@ -1,6 +1,6 @@
 # ICLR 2022 Social : ML in Korea
 
-![](/careers/assets/en/%40ICLR2022_poster_20220414_B_1460-320.png)
+![](/assets/en/%40ICLR2022_poster_20220414_B_1460-320.png)
 
 We invite everyone who is part of or interested in the ML research community in Korea. Participants introduce their own ML research presented in ICLR 2022. They also casually introduce papers that are found interesting among those presented in ICLR 2022 and other venues, and discuss those with other participants. Other potential discussion topics include (but are not limited to): Korean NLP, computer vision and datasets, ML for the post-COVID19 era, and career chances in both academia and industry in Korea. We welcome everyone from anywhere in the world. Note that we have had the same social events in ICLR 2020, 2021, NeurIPS 2020, and 2021 with active participation of more than 100 people.
 
@@ -14,7 +14,7 @@ We invite everyone who is part of or interested in the ML research community in 
 
 ### Schedule&#x20;
 
-![](/careers/assets/en/image%20(6).png)
+![](/assets/en/image%20(6).png)
 
 ## Plenary Talk
 
@@ -40,12 +40,12 @@ Yejin Choi is Brett Helsel Professor at the Paul G. Allen School of Computer Sci
 
 ## Sponsors
 
-![](/careers/assets/en/image%20(5).png)
+![](/assets/en/image%20(5).png)
 
 ## ICLR 2022 Paper Wall -1 (Poster Session 1)
 
-![](/careers/assets/en/image%20(42).png)
+![](/assets/en/image%20(42).png)
 
 ## ICLR 2022 Paper Wall -2 (Poster Session 2)
 
-![](/careers/assets/en/image%20(19).png)
+![](/assets/en/image%20(19).png)

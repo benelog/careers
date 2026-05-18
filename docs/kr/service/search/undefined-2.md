@@ -11,9 +11,9 @@ description: Question Answering
 
 현재 문장형, 리스트형, 테이블형 지식스니펫을 제공하고 있고 정보전달력을 높이기 위해 답변 영역을 하이라이팅을 하거나 이미지를 함께 제공하는 등 사용자에게 다양한 경험을 제공하고 있습니다.
 
-![](/careers/assets/kr/image%20(73).png)
+![](/assets/kr/image%20(73).png)
 
-![](/careers/assets/kr/image%20(37).png)
+![](/assets/kr/image%20(37).png)
 
 ###
 

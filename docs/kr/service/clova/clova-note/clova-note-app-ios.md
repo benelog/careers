@@ -1,6 +1,6 @@
 # CLOVA Note App (iOS)
 
-r![](/careers/assets/kr/image%20(55).png)
+r![](/assets/kr/image%20(55).png)
 
 ## 소개
 

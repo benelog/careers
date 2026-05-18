@@ -3,25 +3,25 @@
 This repository is a migration of GitBook (`naver-career.gitbook.io/{en,kr}`) content to an MkDocs Material site.
 
 - A: the source GitBook site (https://naver-career.gitbook.io/)
-- B: the site this repository builds and deploys to GitHub Pages (https://benelog.github.io/careers/)
+- B: the site this repository builds and deploys to GitHub Pages (https://naver-career.github.io/)
 
 ## B's URL ↔ md file mapping
 
-The build tool is MkDocs (Material theme) and the site base is `https://benelog.github.io/careers/`.
+The build tool is MkDocs (Material theme) and the site base is `https://naver-career.github.io/`.
 `docs_dir: docs` in `mkdocs.yml`. All pages are exposed in directory + trailing-slash form.
 
 | md file                                        | Published URL                                                 |
 | ---------------------------------------------- | ------------------------------------------------------------- |
-| `docs/index.md`                                | `https://benelog.github.io/careers/` *(→ redirects to `/kr/`)* |
-| `docs/<lang>/index.md`                         | `https://benelog.github.io/careers/<lang>/`                   |
-| `docs/<lang>/<path>/index.md`                  | `https://benelog.github.io/careers/<lang>/<path>/`            |
-| `docs/<lang>/<path>/<slug>.md`                 | `https://benelog.github.io/careers/<lang>/<path>/<slug>/`     |
+| `docs/index.md`                                | `https://naver-career.github.io/` *(→ redirects to `/kr/`)*  |
+| `docs/<lang>/index.md`                         | `https://naver-career.github.io/<lang>/`                      |
+| `docs/<lang>/<path>/index.md`                  | `https://naver-career.github.io/<lang>/<path>/`               |
+| `docs/<lang>/<path>/<slug>.md`                 | `https://naver-career.github.io/<lang>/<path>/<slug>/`        |
 
 `<lang>` is either `kr` or `en`. Examples:
 
-- `docs/kr/service/media/index.md` → `https://benelog.github.io/careers/kr/service/media/`
-- `docs/kr/service/media/back-end.md` → `https://benelog.github.io/careers/kr/service/media/back-end/`
-- `docs/en/teams/naver-ai-lab.md` → `https://benelog.github.io/careers/en/teams/naver-ai-lab/`
+- `docs/kr/service/media/index.md` → `https://naver-career.github.io/kr/service/media/`
+- `docs/kr/service/media/back-end.md` → `https://naver-career.github.io/kr/service/media/back-end/`
+- `docs/en/teams/naver-ai-lab.md` → `https://naver-career.github.io/en/teams/naver-ai-lab/`
 
 ## A's URL ↔ repository mapping
 

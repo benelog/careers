@@ -7,7 +7,7 @@ description: >-
 
 # CLOVA AI LAB @ CVPR 2022
 
-![](/careers/assets/en/image%20(15).png)
+![](/assets/en/image%20(15).png)
 
 ## Presentation Schedule
 

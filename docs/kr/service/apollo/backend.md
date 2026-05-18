@@ -26,7 +26,7 @@ NAVER UGC는 [네이버 블로그](https://blog.naver.com), [네이버 지식iN]
 * **API Documentation**: OpenAPI Spec 3.0 Swagger 지원
 * **개발 표준화**: Coding Convention, 인증/예외처리/자동화테스트 등 표준 개발 전략
 
-![Boilerplate Architecture](/careers/assets/kr/Boilerplate.jpg)
+![Boilerplate Architecture](/assets/kr/Boilerplate.jpg)
 
 ### SRE implements DevOps
 
@@ -34,9 +34,9 @@ DevOps를 바탕으로 resilience 관점의 신뢰성 높은 서비스를 만들
 
 **기술 공유 사례**: [\[2021 DEVIEW\] 1통의 재난 문자로 시작한 SRE 도전기 - 40배 이상 트래픽도 막아라!](https://tv.naver.com/v/23652569)
 
-![Inbound/Outbound Traffic Control](/careers/assets/kr/SRE-1.jpg)
+![Inbound/Outbound Traffic Control](/assets/kr/SRE-1.jpg)
 
-![Service Infra SRE Dashboard](/careers/assets/kr/SRE-2.jpg)
+![Service Infra SRE Dashboard](/assets/kr/SRE-2.jpg)
 
 ## 저희와 함께 하시는 일 (기술 성장의 기회)
 

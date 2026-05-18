@@ -2,9 +2,9 @@
 
 GitHub Pages 기반 NAVER Tech Careers 사이트의 소스.
 
-- 공개 URL: https://benelog.github.io/careers/
-- 영문 입구: https://benelog.github.io/careers/en/
-- 국문 입구: https://benelog.github.io/careers/kr/
+- 공개 URL: https://naver-career.github.io/
+- 영문 입구: https://naver-career.github.io/en/
+- 국문 입구: https://naver-career.github.io/kr/
 
 원본 GitBook (`naver-career.gitbook.io/{en,kr}`) 의 콘텐츠를 일회성으로 가져와 직접 관리한다. 이후의 모든 갱신은 이 저장소에서 PR 로.
 
@@ -15,7 +15,7 @@ python3 -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
 mkdocs serve
-# http://127.0.0.1:8000/careers/
+# http://127.0.0.1:8000/
 ```
 
 ## 빌드 검증
@@ -30,7 +30,7 @@ mkdocs build --strict
 
 - 영문: `docs/en/` 아래의 마크다운 편집
 - 국문: `docs/kr/` 아래의 마크다운 편집
-- 이미지: `docs/assets/{en,kr}/` 에 두고 `/careers/assets/{en,kr}/파일명` 으로 참조
+- 이미지: `docs/assets/{en,kr}/` 에 두고 `/assets/{en,kr}/파일명` 으로 참조
 - 사이드바 순서: `mkdocs.yml` 의 `nav:` 직접 수정 (`# === NAV START ===` ~ `# === NAV END ===` 사이)
 
 ## 배포

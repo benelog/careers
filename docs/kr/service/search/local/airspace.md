@@ -4,7 +4,7 @@
 
 AirSPACE는 사용자 위치/취향에 기반한 개인화된 POI(Point-of-Interest, 장소) 추천 서비스를 개발하고, 추천을 위한 유저/지역/POI 데이터 분석 및 모델링을 개발합니다.&#x20;
 
-![https://campaign.naver.com/smefullcare/tech/](/careers/assets/kr/image%20(16).png)
+![https://campaign.naver.com/smefullcare/tech/](/assets/kr/image%20(16).png)
 
 AirSPACE 소개 Tech Blog : [https://blog.naver.com/naver\_search/221240314802](https://blog.naver.com/naver_search/221240314802)
 
@@ -16,7 +16,7 @@ AirSPACE 소개 Tech Blog : [https://blog.naver.com/naver\_search/221240314802](
 * [네이버 My플레이스 > POI, 유저 추천](https://m.place.naver.com/my)
 * [Line Place > Menu/Review Search, Review\&User Recommendation](https://lineconomi.me/)
 
-![](/careers/assets/kr/image%20(47).png)
+![](/assets/kr/image%20(47).png)
 
 * **주요 서비스 기사**
   * [네이버 ‘스마트어라운드’, 골목상권 매출 성장 이끌었다](https://biz.chosun.com/site/data/html_dir/2020/08/25/2020082500992.html)
